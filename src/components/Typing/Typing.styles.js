@@ -15,6 +15,7 @@ const keyFrameAnimation = keyframes`
 
 export const StyledTiContainer = styled.div`
   margin-left: 32px;
+  margin-bottom: 16px;
 `;
 
 export const StyledTiBlock = styled.div`
