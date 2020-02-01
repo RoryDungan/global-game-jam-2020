@@ -10,9 +10,10 @@ export default ({ View, chatlog, ...props }) => {
     }
 
     // TODO: handle images
-    acc[acc.length - 1].messages.push({
-      text: curr.data.text
-    });
+    const text = curr.data.text;
+    if (text) {
+      acc[acc.length - 1].messages.push({ text });
+    }
 
     return acc;
   }, []);

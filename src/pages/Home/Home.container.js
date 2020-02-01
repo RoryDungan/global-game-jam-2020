@@ -16,14 +16,13 @@ export default ({ View, ...props }) => {
 
   const [previousStateType, setPreviousStateType] = useState('')
 
-  // const setTyping = isFriendTyping => setCurrentState({
-  //   ...currentState,
-  //   data: {
-  //     ...currentState.data,
-  //     isFriendTyping,
-  //   }
-  // });
-  const setTyping = () => {}
+  const setTyping = isFriendTyping => setCurrentState({
+    ...currentState,
+    data: {
+      ...currentState.data,
+      isFriendTyping,
+    }
+  });
 
   const setReadyState = options => {
     console.log('SETTING READY STATE')
@@ -100,6 +99,7 @@ export default ({ View, ...props }) => {
       chatlog={chatlog}
       otherUser={otherUser}
       options={currentState.data.options || []}
-      onOptionSelected={setWaitingState} />
+      onOptionSelected={setWaitingState}
+      isTyping={currentState.data.isFriendTyping} />
   );
 };

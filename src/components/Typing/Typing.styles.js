@@ -13,7 +13,9 @@ const keyFrameAnimation = keyframes`
   }
 `;
 
-export const StyledTiContainer = styled.div``;
+export const StyledTiContainer = styled.div`
+  margin-left: 32px;
+`;
 
 export const StyledTiBlock = styled.div`
   align-items: center;

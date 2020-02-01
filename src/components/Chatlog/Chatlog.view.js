@@ -5,13 +5,15 @@ import {
 } from '../';
 import { StyledChatlog } from './Chatlog.styles';
 
-export default ({ conversation }) => (
+export default ({ conversation, isTyping }) => (
   <StyledChatlog>
     {
       conversation.map((messageGroup, i) => (
         <MessageGroup messageGroup={messageGroup} key={i} />
       ))
     }
-    <Typing />
+    {
+      isTyping ? <Typing /> : ''
+    }
   </StyledChatlog>
 );
