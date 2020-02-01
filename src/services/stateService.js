@@ -11,7 +11,7 @@ const { useGlobalState } = createGlobalState({
     "sender": "chat",
     "type": "text",
     "data": {
-      "text": "hello :)"
+      "text": "Today"
     }
   }]
 });
