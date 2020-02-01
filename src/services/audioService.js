@@ -8,7 +8,8 @@ import {
   receiveMessage,
   selection,
   sendMessage,
-  themeSong,
+  // themeSong,
+  themeSong2,
 } from '../assets/audio';
 
 const sounds = {
@@ -56,15 +57,15 @@ const sounds = {
   ),
 };
 
-const musics = {
-  themeSong: new UIfx(
-    themeSong,
-    {
-      volume: 0.4,
-      throttleMs: 100,
-    },
-  ),
-};
+// const musics = {
+//   themeSong: new UIfx(
+//     themeSong,
+//     {
+//       volume: 0.4,
+//       throttleMs: 100,
+//     },
+//   ),
+// };
 
 export const SOUNDS = {
   HIT_BOTTOM_MESSAGE: 'hitBottomMessage',
@@ -77,24 +78,25 @@ export const SOUNDS = {
 
 export const MUSICS = {
   THEME: 'themeSong',
+  THEME2: 'themeSong2',
 };
 
 export const playSound = sound => {
   sounds[sound].play();
 };
 
-export const playMusic = music => {
-  musics[music].play();
-};
+// export const playMusic = music => {
+//   musics[music].play();
+// };
 
 const controller = HowlerSoundController;
 const loader = controller.getLoader();
 
 loader
-  .add('themeSong', { src: [themeSong], volume: 0.2 });
+  .add('themeSong2', { src: [themeSong2], volume: 0.2 });
 
 loader.once('loaded', () => {
-  // controller.playBackground('themeSong');
+  controller.playBackground('themeSong2');
 });
 
 loader.load();
