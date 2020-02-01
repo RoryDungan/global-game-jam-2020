@@ -9,7 +9,7 @@
     },
     "paths": [
       {
-        "destination": "2"
+        "destination": "3"
       }
     ]
   },
@@ -38,6 +38,20 @@
     "paths": [
       {
         "destination": "3"
+      }
+    ]
+  },
+  "4": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "data": {
+        "text": "yaaaaa"
+      }
+    },
+    "paths": [
+      {
+        "destination": "1"
       }
     ]
   }
