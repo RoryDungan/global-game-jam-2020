@@ -20,7 +20,7 @@ export default ({ messageGroup }) => (
           messageGroup.messages.map((message, i) => (
             <MessageBubble
               key={i}
-              text={message.data.message}
+              text={message.text}
             />
           ))
         }
@@ -40,7 +40,7 @@ export default ({ messageGroup }) => (
         messageGroup.messages.map((message, i) => (
           <MessageBubble
             key={i}
-            text={message.data.message}
+            text={message.text}
             alignRight
           />
         ))

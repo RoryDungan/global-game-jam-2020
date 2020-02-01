@@ -5,10 +5,10 @@ import {
 } from '../';
 import { StyledChatlog } from './Chatlog.styles';
 
-export default ({ messageGroups }) => (
+export default ({ conversation }) => (
   <StyledChatlog>
     {
-      messageGroups.map((messageGroup, i) => (
+      conversation.map((messageGroup, i) => (
         <MessageGroup messageGroup={messageGroup} key={i} />
       ))
     }
