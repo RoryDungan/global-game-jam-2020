@@ -113,23 +113,6 @@
       }
     ]
   },
-  "132": {
-    "responseOptions": [
-      "1",
-      "2"
-    ],
-    "messages": [
-      {
-        "sender": "friend",
-        "type": "text",
-        "delay": 0.5,
-        "typingDuration": 0.5,
-        "data": {
-          "text": "Do you remember Selby? Pretty sure he's making"
-        }
-      }
-    ]
-  },
   "2a": {
     "responseOptions": [
       "2a",
@@ -142,7 +125,7 @@
         "delay": 0.5,
         "typingDuration": 0.5,
         "data": {
-          "text": "Same! And glad I'm not texting some budget laundromat or something, haha. Glad this number still works and everything."
+          "text": "Same! And good to know I'm not texting some budget laundromat or something, haha. Glad this number still works and everything."
         }
       },
       {
@@ -151,7 +134,7 @@
         "delay": 0.5,
         "typingDuration": 0.5,
         "data": {
-          "text": "Guessing you've been out of touch with everyone, unless it was just me and Matt haha. He mentioned he hadn't heard from you either, not since graduation.  Not sure if you knew, but he's in finance now, of all things??"
+          "text": "Guessing you've been out of touch with everyone, unless it was just me and Matt haha. He mentioned he hadn't heard from you either, not since graduation. Not sure if you knew, but he's in finance now, of all things??"
         }
       }
     ]
@@ -177,7 +160,7 @@
         "delay": 0,
         "typingDuration": 0.5,
         "data": {
-          "text": "Ten year old meme, it must be you"
+          "text": "Ten year old meme, it really is you"
         }
       },
       {
@@ -450,7 +433,7 @@
         "delay": 0.5,
         "typingDuration": 0.5,
         "data": {
-          "text": "Could have used a drummer a few years back when I was trying to get into the  music scene."
+          "text": "Could have used a drummer a few years back when I was trying to get into the music scene."
         }
       },
       {
@@ -563,8 +546,8 @@
   },
   "E1": {
     "responseOptions": [
-      "1",
-      "2"
+      "_ENDING_1_",
+      "_ENDING_1_"
     ],
     "messages": [
       {
@@ -714,7 +697,7 @@
         "delay": 0.5,
         "typingDuration": 0.5,
         "data": {
-          "text": "last night i made a taco, but to my despair\ni ran outta veg, a deplorable affair\nthe oven was on\naint noone else home\nnot now, not ever\nfor a grocery run\nso i dug up ol Succ\nol Succ the Succulent \nshitty housewarming gift\nfrom a relative miffed\ni cut her into pieces\nlittle itty bitty pieces\nitty bitty\nbitty titty\n(skipping some lines, this goes on for a while)\ntitty titty pieces\nshe tasted like sap and regret\nbut mostly sap"
+          "text": "last night i made a taco, but to my despair\ni ran outta veg, a deplorable affair\nthe oven was on\naint noone else home\nnot now, not ever\nfor a grocery run\nso i dug up ol Succ\nol Succ the Succulent \nshitty housewarming gift\nfrom a relative miffed\ni cut her into pieces\nlittle itty bitty pieces\nitty bitty\nbitty titty\nbitty bitty\n(i'm opting to skip some lines here, this goes on for a while)\ntitty titty pieces\nshe tasted like sap and bad decisions\nbut mostly sap"
         }
       },
       {
@@ -723,7 +706,7 @@
         "delay": 4,
         "typingDuration": 0.5,
         "data": {
-          "text": "that's, um, one of the better ones."
+          "text": "that's, um, one of the better ones. it's. metaphorical."
         }
       },
       {
@@ -732,7 +715,7 @@
         "delay": 0.5,
         "typingDuration": 0.5,
         "data": {
-          "text": "Thoughts? and don't worry, nothing you say can be more hurtful than a youtube comment section."
+          "text": "Thoughts? and don't worry, nothing you say can be more hurtful than the youtube comment section was"
         }
       }
     ]
@@ -765,8 +748,8 @@
   },
   "10a": {
     "responseOptions": [
-      "1",
-      "2"
+      "11a",
+      "11b"
     ],
     "messages": [
       {
@@ -1014,8 +997,8 @@
   },
   "11b": {
     "responseOptions": [
-      "1",
-      "2"
+      "13a",
+      "13b"
     ],
     "messages": [
       {
@@ -1290,15 +1273,15 @@
         "delay": 0.5,
         "typingDuration": 2,
         "data": {
-          "text": "Sorry,  forget I said that. It's been ten years and it wasn't your dumb high school breakup. And it wasn't the worst thing that happened that year or anything."
+          "text": "Sorry, forget I said that. It's been ten years and it wasn't your dumb high school breakup. And it wasn't the worst thing that happened that year or anything."
         }
       }
     ]
   },
   "E4": {
     "responseOptions": [
-      "1",
-      "2"
+      "_ENDING_4_",
+      "_ENDING_4_"
     ],
     "messages": [
       {
@@ -1339,36 +1322,10 @@
       }
     ]
   },
-  "14c": {
-    "responseOptions": [
-      "E1",
-      "E2"
-    ],
-    "messages": [
-      {
-        "sender": "friend",
-        "type": "text",
-        "delay": 2,
-        "typingDuration": 4,
-        "data": {
-          "text": "Oh man, sorry, think my dog's asking for a walk. Better take him before there's a mess."
-        }
-      },
-      {
-        "sender": "friend",
-        "type": "text",
-        "delay": 0.5,
-        "typingDuration": 0.5,
-        "data": {
-          "text": "It was nice catching up with you, though. Talk soon?"
-        }
-      }
-    ]
-  },
   "13b": {
     "responseOptions": [
-      "15a",
-      "15b"
+      "13b1",
+      "13b2"
     ],
     "messages": [
       {
@@ -1377,7 +1334,7 @@
         "delay": 0.5,
         "typingDuration": 0.5,
         "data": {
-          "text": "Andrew Comby. Oh Andrew. Jock. Weird hot wing addiction. Surprisingly nice, aside from a small tendency to political incorrectness, but hey, that's high school, right?"
+          "text": "Andrew Tran. Oh Andrew. Jock. Vietnamese. Weird hot wing addiction. Surprisingly nice, aside from a small tendency to political incorrectness, but hey, that's high school, right?"
         }
       },
       {
@@ -1404,7 +1361,7 @@
         "delay": 0.5,
         "typingDuration": 0.5,
         "data": {
-          "text": "wildlife conservationist by night? some kind of jazz performer, but half his proceeds go to ALKA, which is the czech RSPCA as far as i can tell"
+          "text": "wildlife conservationist by night? some kind of jazz performer, works his head out, but half his proceeds go to ALKA, which is the czech RSPCA as far as i can tell"
         }
       },
       {
@@ -1413,7 +1370,7 @@
         "delay": 0.5,
         "typingDuration": 0.5,
         "data": {
-          "text": "and he didnt tell his girlfriend he was moving until he was already there, so that was a whole shitshow she dragged his sister and brother into right on to his timeline."
+          "text": "and he didnt tell his girlfriend he was moving until he was already there, so that was a whole shitshow she dragged his mother and father sister and brother into right on to his timeline."
         }
       },
       {
@@ -1431,7 +1388,251 @@
         "delay": 0.5,
         "typingDuration": 0.5,
         "data": {
-          "text": "he's not even one the weirdest one though, no coverups, no failed political careers. Or sex scandals, b-list celebrity dates, a-list celebrity dates, murders."
+          "text": "he's not even one the best story though, no coverups, no failed political careers. no sex scandals, b-list celebrity dates, a-list celebrity dates, murders.."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "remember Selby? you would not -believe- what he's been doing with his grandmother's ashes. gotta say i'm a little sickened."
+        }
+      }
+    ]
+  },
+  "13b1": {
+    "responseOptions": [
+      "1",
+      "2"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 2,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "soz hang on a moment, gotta let my dog out"
+        }
+      }
+    ]
+  },
+  "15a": {
+    "responseOptions": [
+      "E1",
+      "E2"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "ugh, sorry about this, but i gotta pop off, he's just not doing his business without a proper walk. spoiled mutt."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Sorry for rambling at you. it feels a bit unfair when you're so quiet over text."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "We should catch up some time, when you're free"
+        }
+      }
+    ]
+  },
+  "15b": {
+    "responseOptions": [
+      "16a",
+      "16b"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "ugh, sorry about this, but i gotta pop off, he's just not doing his business without a proper walk. spoiled mutt."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "thanks for letting me ramble at you though."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Wanna come over and hang this week? i can try and return the favour."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "We could, idk, do a jam session."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "you on drums, me as dreamy vocalist."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "me as dreamy lead guitar when i'm sick of you kicking me for bad lyrics"
+        }
+      }
+    ]
+  },
+  "E2": {
+    "responseOptions": [
+      "17a",
+      "17b"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Friday. :) see you then, i'll send you my address on fb so my homeboy mark z can join us."
+        }
+      }
+    ]
+  },
+  "8ba": {
+    "responseOptions": [
+      "8ba",
+      "8bb"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "You, uh, don't seem particularly enthusiastic. And I think I should clarify - they're the worst rap lyrics I've ever written, heard or seen. I hope you appreciate that that's saying a lot."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "You really don't have to indulge me on this."
+        }
+      }
+    ]
+  },
+  "E2X": {
+    "responseOptions": [
+      "_ENDING_2_",
+      "_ENDING_2_"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 10,
+        "typingDuration": 0.5,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "thanks for coming out, that was awesome. :) see you next week!!!"
+        }
+      }
+    ]
+  },
+  "E1X": {
+    "responseOptions": [
+      "E1X1",
+      "E1X1"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Hey, how's it going?"
+        }
+      }
+    ]
+  },
+  "14c": {
+    "responseOptions": [
+      "E1",
+      "E2"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Really?"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 4,
+        "typingDuration": 4,
+        "data": {
+          "text": "... sorry, my dog's been asking for a walk for the last ten minutes. I should probably take him before he pisses in a corner."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "It was nice catching up with you, though. See you later?"
         }
       }
     ]
