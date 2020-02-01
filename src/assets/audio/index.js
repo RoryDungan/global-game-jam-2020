@@ -1,11 +1,11 @@
-import hitBottomMessageLog from './hitBottomMessageLog.wav';
-import hitTopMessageLog from './hitTopMessageLog.wav';
-import notification from './notification.wav';
-import receiveMessage from './receiveMessage.wav';
-import selection from './selection.wav';
-import sendMessage from './sendMessage.wav';
-import themeSong from './themeSong.wav';
-import themeSong2 from './themeSong2.wav';
+import hitBottomMessageLog from './hitBottomMessageLog.m4a';
+import hitTopMessageLog from './hitTopMessageLog.m4a';
+import notification from './notification.m4a';
+import receiveMessage from './receiveMessage.m4a';
+import selection from './selection.m4a';
+import sendMessage from './sendMessage.m4a';
+import themeSong from './themeSong.m4a';
+import themeSong2 from './themeSong2.m4a';
 
 export {
   hitBottomMessageLog,
