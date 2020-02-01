@@ -1,6 +1,5 @@
-[
-  {
-    "id": 1,
+{
+  "1": {
     "responseOptions": [
       1,
       2
@@ -15,8 +14,7 @@
       }
     ]
   },
-  {
-    "id": 2,
+  "2": {
     "responseOptions": [
       null,
       null
@@ -31,8 +29,7 @@
       }
     ]
   },
-  {
-    "id": 3,
+  "3": {
     "responseOptions": [
       null,
       null
@@ -51,5 +48,19 @@
         }
       }
     ]
+  },
+  "": {
+    "responseOptions": [
+      null,
+      null
+    ],
+    "messages": [
+      {
+        "type": "text",
+        "data": {
+          "message": "yaaa"
+        }
+      }
+    ]
   }
-]
+}
