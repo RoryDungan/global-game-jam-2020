@@ -29,17 +29,28 @@ export default ({ View, ...props }) => {
     console.log('SETTING READY STATE')
     console.dir(options)
     setCurrentState({
-    type: 'ready',
-    data: {
-      options
-    }
-  })
-}
+      type: 'ready',
+      data: {
+        options
+      }
+    })
+  }
+
+  const appendMessage = (msg) => {
+    const newChatlog = [
+      ...chatlog,
+      msg
+    ];
+    setChatlog(newChatlog)
+    chatlog = newChatlog;
+  }
 
   const setWaitingState = messageId => {
     const destinations = sendableOptions[messageId].paths
 
     console.log('setWaitingState, messageId: ' +  destinations[0].destination)
+
+    appendMessage(sendableOptions[messageId].message)
 
     setCurrentState({
       type: 'waiting',
@@ -51,15 +62,6 @@ export default ({ View, ...props }) => {
 
   const enterReadyState = () => {
 
-  }
-
-  const appendMessage = (msg) => {
-    const newChatlog = [
-      ...chatlog,
-      msg
-    ];
-    setChatlog(newChatlog)
-    chatlog = newChatlog;
   }
 
   const enterWaitingState = () => {
