@@ -1,0 +1,13 @@
+{
+    "name": "802236c2-25a0-44d8-95bc-47e218810623",
+    "version": "1.0.0",
+    "description": "Data-Forge Notebook - A JavaScript notebook",
+    "devDependencies": {
+        "@babel/core": "^7.8.4",
+        "@babel/preset-env": "^7.8.4"
+    },
+    "dependencies": {
+        "data-forge": "^1.7.7",
+        "data-forge-fs": "0.0.7"
+    }
+}
