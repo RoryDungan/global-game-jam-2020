@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "responseOptions": [
+      1,
+      2
+    ],
+    "messages": [
+      {
+        "type": "text",
+        "delay": 1,
+        "data": {
+          "message": "hello"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "responseOptions": [
+      null,
+      null
+    ],
+    "messages": [
+      {
+        "type": "text",
+        "typingDuration": 4,
+        "data": {
+          "message": "whatever"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "responseOptions": [
+      null,
+      null
+    ],
+    "messages": [
+      {
+        "type": "text",
+        "data": {
+          "message": "long time"
+        }
+      },
+      {
+        "type": "text",
+        "data": {
+          "message": "sup"
+        }
+      }
+    ]
+  }
+]
