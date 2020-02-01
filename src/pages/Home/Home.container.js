@@ -12,7 +12,7 @@ export default ({ View, ...props }) => {
   });
 
   const [currentState, setCurrentState] = useGlobalState('currentState')
-  const [chatlog, setChatlog] = useGlobalState('chatlog')
+  let [chatlog, setChatlog] = useGlobalState('chatlog')
 
   const [previousStateType, setPreviousStateType] = useState('')
 
@@ -42,13 +42,13 @@ export default ({ View, ...props }) => {
 
   }
 
-  const appendMessage = msg => {
-    console.log('adding message: ')
-    console.dir(msg)
-    setChatlog([
+  const appendMessage = (msg) => {
+    const newChatlog = [
       ...chatlog,
       msg
-    ])
+    ];
+    setChatlog(newChatlog)
+    chatlog = newChatlog;
   }
 
   const [enterWaitingState] = useState(() => () => {

@@ -3,9 +3,6 @@ import { MessageGroup } from '../';
 import { StyledChatlog } from './Chatlog.styles';
 
 export default ({ chatlog }) => {
-  console.log('chatlog')
-  console.dir(chatlog)
-
   const conversation = chatlog.reduce((acc, curr) => {
     if (acc.length <= 0 || acc[acc.length - 1].sender !== curr.sender) {
       acc.push({
@@ -22,7 +19,6 @@ export default ({ chatlog }) => {
     return acc;
   }, []);
 
-  console.dir(conversation)
   return (
     <StyledChatlog>
       {/*<MessageGroup messages={messages} />*/}
