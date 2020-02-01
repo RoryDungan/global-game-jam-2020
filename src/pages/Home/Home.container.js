@@ -59,14 +59,48 @@ export default ({ View, ...props }) => {
     })
   }
 
-  const enterReadyState = () => {
+  // Special code for each ending
+  const goToEnding = endId => {
+    switch (endId) {
+      case '_ENDING_4_':
+        appendMessage({
+          sender: 'chat',
+          type: 'text',
+          data: { text: 'Disconnected.' }
+        })
+        setTimeout(() => appendMessage({
+          sender: 'chat',
+          type: 'text',
+          data: { text: 'This user has blocked you.' }
+        }), 1400)
+        setTimeout(() => {
+          const newChatlog = chatlog.map(m => m.sender === 'friend'
+            ? { ...m, data: { text: 'Message unavailable' }}
+            : m);
+          setChatlog(newChatlog);
+          chatlog = newChatlog;
+        }, 2000)
+        setTimeout(() => appendMessage({
+          sender: 'chat',
+          type: 'text',
+          data: { text: 'Reload the page to play again.' }
+        }), 4000)
+        break;
 
+      default:
+        throw new Error('Invalid ending ID ' + endId);
+    }
   }
+
+  const enterReadyState = () => { }
 
   const enterWaitingState = () => {
     const incomingMessage = incomingMessages[currentState.data.messageId];
 
     console.log('enterWaitingState, messageId: ' + currentState.data.messageId);
+    if (!incomingMessage.responseOptions || incomingMessage.responseOptions.length < 2) {
+      throw new Error('Invalid response options in incoming message ' + currentState.data.messageId);
+    }
 
     let delay = 0;
     for (const msg of incomingMessage.messages) {
@@ -76,7 +110,14 @@ export default ({ View, ...props }) => {
       delay += msg.delay + msg.typingDuration;
     }
 
-    setTimeout(() => setReadyState(incomingMessage.responseOptions), delay * 1000)
+    if (incomingMessage.responseOptions.some(r => r.match(/_ENDING_/g))) {
+      setTimeout(() => {
+        console.log('Going to ending', incomingMessage.responseOptions[0])
+        goToEnding(incomingMessage.responseOptions[0]);
+      }, delay * 1000);
+    } else {
+      setTimeout(() => setReadyState(incomingMessage.responseOptions), delay * 1000)
+    }
   }
 
   if (currentState.type !== previousStateType) {

@@ -7,7 +7,13 @@ const { useGlobalState } = createGlobalState({
       messageId: '1'
     }
   },
-  chatlog: []
+  chatlog: [{
+    "sender": "chat",
+    "type": "text",
+    "data": {
+      "text": "hello :)"
+    }
+  }]
 });
 
 export {

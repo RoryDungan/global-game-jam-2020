@@ -1,50 +1,45 @@
 import React from 'react';
 import { MessageBubble } from '../';
+import { ChatServerMessageGroup, FriendMessageGroup, SelfMessageGroup } from './MessageGroup.styles';
 
-export default ({ messageGroup }) => (
-  messageGroup.sender === 'friend' ? (
-    <div
-      style={{
-        display: 'flex',
-        flexDirection: 'row',
-        justifyContent: 'flex-start',
-        alignItems: 'flex-end',
-        padding: '0.75em',
-      }}
-    >
-      <div style={{ padding: '0.125em', paddingRight: '0.75em' }}>
-        {/*<Avatar />*/}
-      </div>
-      <div>
+export default ({ messageGroup }) => {
+  switch (messageGroup.sender) {
+    case 'friend':
+      return <FriendMessageGroup>
+        <div style={{ padding: '0.125em', paddingRight: '0.75em' }}>
+          {/*<Avatar />*/}
+        </div>
+        <div>
+          {
+            messageGroup.messages.map((message, i) => (
+              <MessageBubble
+                key={i}
+                text={message.text}
+              />
+            ))
+          }
+        </div>
+      </FriendMessageGroup>
+    case 'self':
+      return <SelfMessageGroup>
         {
           messageGroup.messages.map((message, i) => (
             <MessageBubble
               key={i}
               text={message.text}
+              alignRight
             />
           ))
         }
-      </div>
-    </div>
-  ) : (
-    <div
-      style={{
-        display: 'flex',
-        flexDirection: 'column',
-        justifyContent: 'flex-end',
-        alignItems: 'flex-end',
-        padding: '1em',
-      }}
-    >
+      </SelfMessageGroup>
+    case 'chat':
+      return <ChatServerMessageGroup>
       {
         messageGroup.messages.map((message, i) => (
-          <MessageBubble
-            key={i}
-            text={message.text}
-            alignRight
-          />
+          message.text
         ))
       }
-    </div>
-  )
-);
+      </ChatServerMessageGroup>
+    default: return <div></div>;
+  }
+}
