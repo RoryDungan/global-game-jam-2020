@@ -1,18 +1,8 @@
 import React from 'react';
 import { MessageBubble } from '../';
 
-// export default ({ messages }) => (
-//   <div>
-//     {
-//       messages.map((message, i) => (
-//         <MessageBubble message={message} key={i} />
-//       ))
-//     }
-//   </div>
-// );
-
 export default ({ messageGroup }) => (
-  messageGroup.sender === 'John Doe' ? (
+  messageGroup.sender === 'friend' ? (
     <div
       style={{
         display: 'flex',
@@ -27,9 +17,10 @@ export default ({ messageGroup }) => (
       </div>
       <div>
         {
-          messageGroup.messages.map(message => (
+          messageGroup.messages.map((message, i) => (
             <MessageBubble
-              text={message.text}
+              key={i}
+              text={message.data.message}
             />
           ))
         }
@@ -46,9 +37,10 @@ export default ({ messageGroup }) => (
       }}
     >
       {
-        messageGroup.messages.map(message => (
+        messageGroup.messages.map((message, i) => (
           <MessageBubble
-            text={message.text}
+            key={i}
+            text={message.data.message}
             alignRight
           />
         ))
