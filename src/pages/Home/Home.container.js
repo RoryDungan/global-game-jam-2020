@@ -62,6 +62,32 @@ export default ({ View, ...props }) => {
   // Special code for each ending
   const goToEnding = endId => {
     switch (endId) {
+      case '_ENDING_1_':
+        setTimeout(() => appendMessage({
+          sender: 'chat',
+          type: 'text',
+          data: { text: 'Disconnected.' }
+        }), 1000)
+        setTimeout(() => appendMessage({
+          sender: 'chat',
+          type: 'text',
+          data: { text: 'Reload the page to play again.' }
+        }), 2000)
+        break;
+
+      case '_ENDING_2_':
+        setTimeout(() => appendMessage({
+          sender: 'chat',
+          type: 'text',
+          data: { text: 'Disconnected.' }
+        }), 1000)
+        setTimeout(() => appendMessage({
+          sender: 'chat',
+          type: 'text',
+          data: { text: 'Reload the page to play again.' }
+        }), 2000)
+        break;
+
       case '_ENDING_4_':
         appendMessage({
           sender: 'chat',
