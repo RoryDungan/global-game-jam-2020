@@ -5,6 +5,3 @@ const { useGlobalState } = createGlobalState({ count: 0 });
 export {
   useGlobalState,
 };
-// const Component = () => {
-//   const [count, setCount] = useGlobalState('count');
-// };
