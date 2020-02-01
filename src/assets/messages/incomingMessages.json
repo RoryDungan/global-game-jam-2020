@@ -1,8 +1,8 @@
 {
   "1": {
     "responseOptions": [
-      1,
-      2
+      "1",
+      "2"
     ],
     "messages": [
       {
@@ -16,8 +16,8 @@
   },
   "2": {
     "responseOptions": [
-      null,
-      null
+      "",
+      ""
     ],
     "messages": [
       {
@@ -31,8 +31,8 @@
   },
   "3": {
     "responseOptions": [
-      null,
-      null
+      "",
+      ""
     ],
     "messages": [
       {

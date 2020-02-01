@@ -10,7 +10,7 @@
     ],
     "paths": [
       {
-        "destination": 2
+        "destination": "2"
       }
     ]
   },
@@ -25,7 +25,7 @@
     ],
     "paths": [
       {
-        "destination": 2
+        "destination": "2"
       }
     ]
   }

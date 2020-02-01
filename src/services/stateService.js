@@ -1,6 +1,15 @@
 import { createGlobalState } from 'react-hooks-global-state';
+import { incomingMessages } from '../assets/messages';
 
-const { useGlobalState } = createGlobalState({ count: 0 });
+const { useGlobalState } = createGlobalState({
+  currentState: {
+    type: 'waiting',
+    data: {
+      messageId: '1'
+    }
+  },
+  chatlog: []
+});
 
 export {
   useGlobalState,
