@@ -22,9 +22,18 @@ const processMessage = m => {
     }
 }
 
-const incomingMessages = df.readFileSync('incoming-messages.csv')
+const toObj = arr => {
+    const newObj = {}
+    for (let element of arr) {
+        newObj[element.id] = element
+        delete newObj[element.id].id
+    }
+    return newObj
+}
+
+const incomingMessages = toObj(df.readFileSync('incoming-messages.csv')
     .parseCSV()
-    .parseInts(['ID', 'Response 1', 'Response 2'])
+    .parseInts(['Response 1', 'Response 2'])
     .parseFloats(['Delay', 'Typing duration'])
     .where(m => m['ID'] !== undefined)
     .groupBy(m => m['ID'])
@@ -33,15 +42,15 @@ const incomingMessages = df.readFileSync('incoming-messages.csv')
         responseOptions: [group.first()['Response 1'], group.first()['Response 2']],
         messages: group.select(processMessage).toArray()
     }))
-    .toArray()
+    .toArray())
 
 console.dir(incomingMessages)
 
 fs.writeFileSync('incoming-messages.json', JSON.stringify(incomingMessages, null, 2))
 
-const sendableOptions = df.readFileSync('sendable-options.csv')
+const sendableOptions = toObj(df.readFileSync('sendable-options.csv')
     .parseCSV()
-    .parseInts(['ID', 'Default destination', 'Seconadary destination'])
+    .parseInts(['Default destination', 'Seconadary destination'])
     .parseFloats(['Score'])
     .where(m => m['ID'] !== undefined)
     .groupBy(m => m['ID'])
@@ -61,7 +70,7 @@ const sendableOptions = df.readFileSync('sendable-options.csv')
             paths
         }
     })
-    .toArray()
+    .toArray())
 
 console.dir(sendableOptions)
 
