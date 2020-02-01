@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { avatarImage } from '../../assets/images';
 import { useGlobalState } from '../../services/stateService';
 import { incomingMessages, sendableOptions } from '../../assets/messages';
