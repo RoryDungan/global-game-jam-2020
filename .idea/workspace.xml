@@ -2,32 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bc9fc31-395a-4afb-a06a-3c9500a90914" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/audio/hitBottomMessageLog.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/audio/hitTopMessageLog.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/audio/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/audio/notification.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/audio/receiveMessage.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/audio/selection.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/audio/sendMessage.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Button/Button.container.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Button/Button.styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Button/Button.view.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Button/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/OptionsLayout/OptionsLayout.container.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/OptionsLayout/OptionsLayout.styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/OptionsLayout/OptionsLayout.view.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/OptionsLayout/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/audioService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/stateService.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Chatlog/Chatlog.styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Chatlog/Chatlog.styles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Chatlog/Chatlog.view.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Chatlog/Chatlog.view.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/MessageBubble/MessageBubble.styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MessageBubble/MessageBubble.styles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/MessageBubble/MessageBubble.view.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MessageBubble/MessageBubble.view.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/MessageGroup/MessageGroup.view.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MessageGroup/MessageGroup.view.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Home/Home.container.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/Home.container.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Home/Home.styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/Home.styles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Home/Home.view.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/Home.view.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,17 +19,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Button/Button.view.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/MessageGroup/MessageGroup.container.js">
+        <entry file="file://$PROJECT_DIR$/src/components/Button/Button.container.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
@@ -62,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/MessageGroup/MessageGroup.view.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="738">
-              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
             </state>
           </provider>
         </entry>
@@ -71,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/MessageBubble/MessageBubble.view.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -80,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/MessageBubble/MessageBubble.styles.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -89,7 +68,25 @@
         <entry file="file://$PROJECT_DIR$/src/services/audioService.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-248">
-              <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/services/stateService.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -98,7 +95,7 @@
         <entry file="file://$PROJECT_DIR$/src/assets/audio/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -108,24 +105,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Chatlog/Chatlog.view.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="40" column="17" lean-forward="true" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Chatlog/Chatlog.container.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -156,7 +135,6 @@
         <option value="$PROJECT_DIR$/src/components/Typing/Typing.styles.js" />
         <option value="$PROJECT_DIR$/src/components/Chatlog/Chatlog.container.js" />
         <option value="$PROJECT_DIR$/src/index.css" />
-        <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/components/Header/Header.container.js" />
         <option value="$PROJECT_DIR$/src/assets/images/index.js" />
         <option value="$PROJECT_DIR$/src/components/Avatar/Avatar.view.js" />
@@ -171,7 +149,6 @@
         <option value="$PROJECT_DIR$/src/components/Chatlog/Chatlog.styles.js" />
         <option value="$PROJECT_DIR$/src/pages/Home/Home.container.js" />
         <option value="$PROJECT_DIR$/src/components/Button/index.js" />
-        <option value="$PROJECT_DIR$/src/components/Button/Button.container.js" />
         <option value="$PROJECT_DIR$/src/components/Button/Button.styles.js" />
         <option value="$PROJECT_DIR$/src/components/index.js" />
         <option value="$PROJECT_DIR$/src/components/OptionsLayout/OptionsLayout.styles.js" />
@@ -183,6 +160,9 @@
         <option value="$PROJECT_DIR$/src/assets/audio/index.js" />
         <option value="$PROJECT_DIR$/src/services/audioService.js" />
         <option value="$PROJECT_DIR$/src/components/Button/Button.view.js" />
+        <option value="$PROJECT_DIR$/src/services/stateService.js" />
+        <option value="$PROJECT_DIR$/src/components/Button/Button.container.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
       </list>
     </option>
   </component>
@@ -220,13 +200,6 @@
               <item name="global-game-jam-2020" type="b2602c69:ProjectViewProjectNode" />
               <item name="global-game-jam-2020" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="audio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="global-game-jam-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="global-game-jam-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -251,6 +224,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -285,12 +259,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580469410886</updated>
-      <workItem from="1580469412283" duration="12693000" />
+      <workItem from="1580469412283" duration="13564000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12693000" />
+    <option name="totallyTimeSpent" value="13564000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="87" y="50" width="1644" height="896" extended-state="0" />
@@ -369,13 +343,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -539,13 +506,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Button/Button.container.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Home/Home.view.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -584,7 +544,7 @@
     <entry file="file://$PROJECT_DIR$/src/components/MessageGroup/MessageGroup.container.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -598,14 +558,14 @@
     <entry file="file://$PROJECT_DIR$/src/components/Chatlog/Chatlog.view.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="517">
-          <caret line="40" column="17" lean-forward="true" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/MessageGroup/MessageGroup.view.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="738">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
@@ -619,35 +579,56 @@
     <entry file="file://$PROJECT_DIR$/src/components/MessageBubble/MessageBubble.view.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/MessageBubble/MessageBubble.styles.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/services/audioService.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-248">
-          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/audio/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/audioService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-248">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/stateService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Button/Button.view.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Button/Button.container.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
