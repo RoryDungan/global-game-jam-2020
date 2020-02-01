@@ -9,7 +9,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 3.5700000000000003,
         "data": {
           "text": "Hi, it's Les, from high school. How've you been? I bumped into Matty yesterday at a bar and it made me wonder what you and the rest of the gang has been up to for the last five years! We should catch up some time, if you're still in Sydney.\nCheers,\nLeslie Lee"
         }
@@ -18,7 +18,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.4700000000000002,
         "data": {
           "text": "Uh, that is, if this is still your number. Ignore these messages if you don't know who I am, I guess?"
         }
@@ -35,7 +35,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.8400000000000001,
         "data": {
           "text": "Yeah... You'll try anything if you're unemployed for more than three months."
         }
@@ -44,7 +44,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.7000000000000001,
         "data": {
           "text": "Those lyrics were real works of art though, just saying."
         }
@@ -53,7 +53,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.4700000000000002,
         "data": {
           "text": "somewhere, kendrick lamar wept a single tear for each and every second I spent recording them, and he doesn't know why"
         }
@@ -62,7 +62,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.56,
         "data": {
           "text": "unless of course he's one of the 46"
         }
@@ -71,7 +71,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.14,
         "data": {
           "text": "wanna see?"
         }
@@ -80,7 +80,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.56,
         "data": {
           "text": "I mean, you really, really don't have to."
         }
@@ -97,7 +97,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.05,
         "data": {
           "text": "Um. You sure? Not sure if my tone came across in text, but they're uh."
         }
@@ -106,7 +106,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.14,
         "data": {
           "text": "astonishingly bad."
         }
@@ -123,7 +123,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.4700000000000002,
         "data": {
           "text": "Same! And good to know I'm not texting some budget laundromat or something, haha. Glad this number still works and everything."
         }
@@ -132,7 +132,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 2.8000000000000003,
         "data": {
           "text": "Guessing you've been out of touch with everyone, unless it was just me and Matt haha. He mentioned he hadn't heard from you either, not since graduation. Not sure if you knew, but he's in finance now, of all things??"
         }
@@ -149,7 +149,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 1,
-        "typingDuration": 0.2,
+        "typingDuration": 0.07,
         "data": {
           "text": "Wow."
         }
@@ -158,7 +158,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0,
-        "typingDuration": 0.5,
+        "typingDuration": 0.56,
         "data": {
           "text": "Ten year old meme, it really is you"
         }
@@ -167,7 +167,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.75,
+        "typingDuration": 1.8900000000000001,
         "data": {
           "text": "Have you been ghosting everyone? Matt mentioned he hadn't heard from you since graduation. Not sure if you knew, but he's in finance now, of all things??"
         }
@@ -184,7 +184,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 1,
+        "typingDuration": 3.2900000000000005,
         "data": {
           "text": "I know right? Doing really well too. Really weird seeing him, he had cufflinks and the watch and the manicure and everything. All I could think about the whole time was him getting that award at the year 12 presentation for \"Most Likely To Go to Jail\"."
         }
@@ -193,7 +193,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.6800000000000002,
         "data": {
           "text": "Though he could still end up in jail, come to think about it. Just, for tax fraud instead of for waxing a teacher's chihuahua."
         }
@@ -202,7 +202,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.56,
         "data": {
           "text": "Anyway, what are you up to these days?"
         }
@@ -219,7 +219,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.07,
         "data": {
           "text": "Yeah."
         }
@@ -228,7 +228,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.56,
         "data": {
           "text": "So what are you up to these days?"
         }
@@ -245,7 +245,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 2.1700000000000004,
         "data": {
           "text": "Eh, same. Been bouncing between jobs, trying new stuff out. Computer support at the moment, for old people who think I'm a hacker when they see my phone in dark mode."
         }
@@ -254,7 +254,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0,
-        "typingDuration": 0.5,
+        "typingDuration": 0.07,
         "data": {
           "text": ""
         }
@@ -272,7 +272,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.07,
         "data": {
           "text": ""
         }
@@ -281,7 +281,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.42000000000000004,
         "data": {
           "text": "You still drum much these days?"
         }
@@ -298,7 +298,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.28,
         "data": {
           "text": "Cool, cool. Me too."
         }
@@ -307,7 +307,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0,
-        "typingDuration": 0.5,
+        "typingDuration": 0.07,
         "data": {
           "text": ""
         }
@@ -325,7 +325,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.07,
         "data": {
           "text": ""
         }
@@ -334,7 +334,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.56,
         "data": {
           "text": "Do you still play drums much these days?"
         }
@@ -351,7 +351,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 2.1700000000000004,
         "data": {
           "text": "Eh, same. Been bouncing between jobs, trying new stuff out. Computer support at the moment, for old people who think I'm a hacker because I use my phone on dark mode."
         }
@@ -360,7 +360,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0,
-        "typingDuration": 0.5,
+        "typingDuration": 0.07,
         "data": {
           "text": ""
         }
@@ -378,7 +378,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.07,
         "data": {
           "text": ""
         }
@@ -387,7 +387,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.35000000000000003,
         "data": {
           "text": "so, wax any chihuahuas lately?"
         }
@@ -396,7 +396,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0,
-        "typingDuration": 0.25,
+        "typingDuration": 0.56,
         "data": {
           "text": "Shit, didn't mean to send that. I meant"
         }
@@ -405,7 +405,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.49000000000000005,
         "data": {
           "text": "Uh. You still play drums these days?"
         }
@@ -422,7 +422,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.21000000000000002,
         "data": {
           "text": "nice. hashtag relatable."
         }
@@ -431,7 +431,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.33,
         "data": {
           "text": "Could have used a drummer a few years back when I was trying to get into the music scene."
         }
@@ -440,7 +440,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.12,
         "data": {
           "text": "Thought of getting in touch with you but you're not really into.. \"cool\" music are you?"
         }
@@ -457,7 +457,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.21000000000000002,
         "data": {
           "text": "Oh ok, cool"
         }
@@ -466,7 +466,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 2.24,
         "data": {
           "text": "I did start a band a few years ago. Thought of getting in touch with you, but figured we'd try a few singles first, so we could tempt you with our success."
         }
@@ -475,7 +475,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.9800000000000001,
         "data": {
           "text": "You might have heard of us actually, do you listen to much new stuff?"
         }
@@ -492,7 +492,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.21000000000000002,
         "data": {
           "text": "Oh ok, cool"
         }
@@ -501,7 +501,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 1,
-        "typingDuration": 0.5,
+        "typingDuration": 0.07,
         "data": {
           "text": ""
         }
@@ -519,7 +519,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 1,
-        "typingDuration": 0.5,
+        "typingDuration": 0.07,
         "data": {
           "text": ""
         }
@@ -528,7 +528,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.4700000000000002,
         "data": {
           "text": "So my dog's been begging me for love for the past ten minutes. I should probably take him for a walk."
         }
@@ -537,7 +537,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.9800000000000001,
         "data": {
           "text": "It was nice catching up with you, we should grab a drink some time!"
         }
@@ -581,7 +581,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 1,
-        "typingDuration": 0.5,
+        "typingDuration": 0.07,
         "data": {
           "text": ""
         }
@@ -590,7 +590,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.21000000000000002,
         "data": {
           "text": "Catch you later!"
         }
@@ -607,7 +607,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.49000000000000005,
         "data": {
           "text": "Definitely wouldn't have heard of us then."
         }
@@ -616,7 +616,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.12,
         "data": {
           "text": "Though FYI, at one point we had over 50 subscribers, so, y'know, I'm basically YouTube famous."
         }
@@ -625,7 +625,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.4700000000000002,
         "data": {
           "text": "I mean, at least 46 of those were there for my sick rap lyrics. The other 4 were in the band."
         }
@@ -642,7 +642,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.35000000000000003,
         "data": {
           "text": "Aight, guess that's a no."
         }
@@ -651,7 +651,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.2600000000000002,
         "data": {
           "text": "Shame. You know, at one point we had over 50 subscribers, so, y'know, kind of a big deal."
         }
@@ -660,7 +660,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.4000000000000001,
         "data": {
           "text": "Though, at least 46 of those were there for my sick rap lyrics. The other 4 were in the band."
         }
@@ -677,7 +677,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.2600000000000002,
         "data": {
           "text": "Aight, give me a moment to find them. you may want to find a seat to swoon on."
         }
@@ -686,7 +686,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.77,
         "data": {
           "text": "Aw hell, they're even worse than I remember. ok brace yourself."
         }
@@ -695,7 +695,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 5.180000000000001,
         "data": {
           "text": "last night i made a taco, but to my despair\ni ran outta veg, a deplorable affair\nthe oven was on\naint noone else home\nnot now, not ever\nfor a grocery run\nso i dug up ol Succ\nol Succ the Succulent \nshitty housewarming gift\nfrom a relative miffed\ni cut her into pieces\nlittle itty bitty pieces\nitty bitty\nbitty titty\nbitty bitty\n(i'm opting to skip some lines here, this goes on for a while)\ntitty titty pieces\nshe tasted like sap and bad decisions\nbut mostly sap"
         }
@@ -704,7 +704,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 4,
-        "typingDuration": 0.5,
+        "typingDuration": 0.6300000000000001,
         "data": {
           "text": "that's, um, one of the better ones. it's. metaphorical."
         }
@@ -713,7 +713,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.1900000000000002,
         "data": {
           "text": "Thoughts? and don't worry, nothing you say can be more hurtful than the youtube comment section was"
         }
@@ -730,7 +730,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.21000000000000002,
         "data": {
           "text": "good choice, honestly"
         }
@@ -739,7 +739,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.9600000000000002,
         "data": {
           "text": "Didn't think it's what I'd be doing when I graduated, but what can you do. I couldn't have guessed what anyone in our year would end up doing."
         }
@@ -756,7 +756,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.42000000000000004,
         "data": {
           "text": "i know, i'm so damn proud."
         }
@@ -765,7 +765,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 2.5200000000000005,
         "data": {
           "text": "so anyway that's the story of how i got into IT. didn't think it's what I'd be doing when I graduated\nthat said, man, have you seen what the others are up to these days? Wild stuff."
         }
@@ -782,7 +782,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.7500000000000002,
         "data": {
           "text": "not exactly what i saw myself doing when i graduated, but then, i couldn't have guessed what anyone in our year would end up doing."
         }
@@ -791,7 +791,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 2,
-        "typingDuration": 0.5,
+        "typingDuration": 0.21000000000000002,
         "data": {
           "text": "wow ok, personal"
         }
@@ -800,7 +800,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.35000000000000003,
         "data": {
           "text": "guess you proved me wrong."
         }
@@ -809,7 +809,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.7000000000000001,
         "data": {
           "text": "anyway that's the story of how i got into IT."
         }
@@ -818,7 +818,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.7000000000000001,
         "data": {
           "text": "Everyone else in our year seems to be doing well.."
         }
@@ -835,7 +835,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.21000000000000002,
         "data": {
           "text": "yeah. yeah maybe."
         }
@@ -844,7 +844,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.6300000000000001,
         "data": {
           "text": "no-one warns you how crap it gets after school."
         }
@@ -853,7 +853,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.33,
         "data": {
           "text": "well they do. but then they also tell you trigonometry is useful and that wanking makes you go blind."
         }
@@ -862,7 +862,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.61,
         "data": {
           "text": "and i dunno about you but i havent had to do anything more complicated than adding 2 and 2 since high school, and"
         }
@@ -889,7 +889,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.42000000000000004,
         "data": {
           "text": "Ok i'm getting off topic, but"
         }
@@ -898,7 +898,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 1,
-        "typingDuration": 1,
+        "typingDuration": 0.49000000000000005,
         "data": {
           "text": "some things were just simpler at school."
         }
@@ -907,7 +907,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.49000000000000005,
         "data": {
           "text": "you had your mates there, everywhere, everyday."
         }
@@ -916,7 +916,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.61,
         "data": {
           "text": "if you weren't ok, it wasn't just your fault, y'know? probably a crap homelife, or crap teachers, or the crap board of studies."
         }
@@ -925,7 +925,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.7500000000000002,
         "data": {
           "text": "out of school though, if you're not okay, it's just a problem with -you-, right, like it's hunting season and you're the star turkey and"
         }
@@ -934,7 +934,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0,
-        "typingDuration": 0.2,
+        "typingDuration": 0.56,
         "data": {
           "text": "do people hunt turkeys anywhere outside the US?"
         }
@@ -943,7 +943,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.28,
         "data": {
           "text": "i'm rambling, I know"
         }
@@ -952,7 +952,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 3,
-        "typingDuration": 0.5,
+        "typingDuration": 1.2600000000000002,
         "data": {
           "text": "Sorry, that got a bit too real for small talk. Last person you'd expect to miss school, right?"
         }
@@ -961,7 +961,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.4000000000000001,
         "data": {
           "text": "Except maybe Matt. Bet he misses being able to drop peanut butter down people's pants without worrying about getting fired."
         }
@@ -970,7 +970,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.9800000000000001,
         "data": {
           "text": "And nang wang. Good old nang wang. Must have hated being called nang wang."
         }
@@ -979,7 +979,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.56,
         "data": {
           "text": "It's what he gets for smuggling like that"
         }
@@ -988,7 +988,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 2,
-        "typingDuration": 0.5,
+        "typingDuration": 0.49000000000000005,
         "data": {
           "text": "Anyway, kept in touch with anyone else?"
         }
@@ -1005,7 +1005,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.49000000000000005,
         "data": {
           "text": "If only you hadn't deleted fb, eh?"
         }
@@ -1014,7 +1014,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.77,
         "data": {
           "text": "Alright, name someone, and I'll spill what dirty deets I know."
         }
@@ -1031,7 +1031,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.14,
         "data": {
           "text": "Haha, what?"
         }
@@ -1040,7 +1040,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.28,
         "data": {
           "text": "I don't know, maybe."
         }
@@ -1058,7 +1058,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 1,
-        "typingDuration": 0.5,
+        "typingDuration": 0.07,
         "data": {
           "text": ""
         }
@@ -1076,7 +1076,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 1,
-        "typingDuration": 0.5,
+        "typingDuration": 0.07,
         "data": {
           "text": ""
         }
@@ -1085,7 +1085,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.4700000000000002,
         "data": {
           "text": "So my dog's been begging me for love for the past ten minutes. I should probably take him for a walk."
         }
@@ -1094,7 +1094,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.9800000000000001,
         "data": {
           "text": "It was nice catching up with you, we should grab a drink some time!"
         }
@@ -1111,7 +1111,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.6300000000000001,
         "data": {
           "text": "gross. just like that, you've ruined me for marriage"
         }
@@ -1120,7 +1120,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.4700000000000002,
         "data": {
           "text": "ok ok, ask me about someone, anyone. I can't believe you've missed out on the wild shit they've gotten up to"
         }
@@ -1129,7 +1129,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.9800000000000001,
         "data": {
           "text": "and unlike -some- people I didn't dramatically quit Facebook the moment I started uni."
         }
@@ -1138,7 +1138,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0,
-        "typingDuration": 0.5,
+        "typingDuration": 1.61,
         "data": {
           "text": "not that I went to uni. which you'd know if you were on fb, because my life's all there, SoundCloud links and everything."
         }
@@ -1147,7 +1147,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0,
-        "typingDuration": 0.5,
+        "typingDuration": 0.42000000000000004,
         "data": {
           "text": "hope zuckerberg likes my sick raps"
         }
@@ -1164,7 +1164,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.42000000000000004,
         "data": {
           "text": "wish it were otherwise, but same."
         }
@@ -1173,7 +1173,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.9800000000000001,
         "data": {
           "text": "still! unlike -some- people I didn't dramatically quit Facebook the moment I started uni."
         }
@@ -1182,7 +1182,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.6800000000000002,
         "data": {
           "text": "not that I went to uni. which you'd know if you were on fb, because my life is -all- there, SoundCloud links and everything."
         }
@@ -1191,7 +1191,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.42000000000000004,
         "data": {
           "text": "hope zuckerberg likes my sweet raps"
         }
@@ -1200,7 +1200,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.9600000000000002,
         "data": {
           "text": "anyway point is, through the magic of the systematic devaluation of privacy that is social media, i know what everyone's been up to. Ask me about someone, anyone."
         }
@@ -1217,7 +1217,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 6,
-        "typingDuration": 0.5,
+        "typingDuration": 0.35000000000000003,
         "data": {
           "text": "Um, how would I know?"
         }
@@ -1226,7 +1226,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.28,
         "data": {
           "text": "Okay anyone but Jackie."
         }
@@ -1262,7 +1262,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.1900000000000002,
         "data": {
           "text": "Do you not remember how that went down or is this you telling me to fuck off"
         }
@@ -1271,7 +1271,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 2,
+        "typingDuration": 2.0300000000000002,
         "data": {
           "text": "Sorry, forget I said that. It's been ten years and it wasn't your dumb high school breakup. And it wasn't the worst thing that happened that year or anything."
         }
@@ -1297,7 +1297,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 4,
-        "typingDuration": 0.5,
+        "typingDuration": 0.07,
         "data": {
           "text": ""
         }
@@ -1315,7 +1315,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 2,
-        "typingDuration": 0.5,
+        "typingDuration": 0.07,
         "data": {
           "text": ""
         }
@@ -1332,7 +1332,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.8200000000000003,
         "data": {
           "text": "Andrew Tran. Oh Andrew. Jock. Vietnamese. Weird hot wing addiction. Surprisingly nice, aside from a small tendency to political incorrectness, but hey, that's high school, right?"
         }
@@ -1341,7 +1341,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.49000000000000005,
         "data": {
           "text": "he's vegetarian now, actually, so there's that."
         }
@@ -1350,7 +1350,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.77,
         "data": {
           "text": "also he's a ski instructor in the czech republic by day"
         }
@@ -1359,7 +1359,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 2.1700000000000004,
         "data": {
           "text": "wildlife conservationist by night? some kind of jazz performer, works his head out, but half his proceeds go to ALKA, which is the czech RSPCA as far as i can tell"
         }
@@ -1368,7 +1368,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 2.45,
         "data": {
           "text": "and he didnt tell his girlfriend he was moving until he was already there, so that was a whole shitshow she dragged his mother and father sister and brother into right on to his timeline."
         }
@@ -1377,7 +1377,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.21000000000000002,
         "data": {
           "text": "it was excellent"
         }
@@ -1386,7 +1386,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.6800000000000002,
         "data": {
           "text": "he's not even one the best story though, no coverups, no failed political careers. no sex scandals, b-list celebrity dates, a-list celebrity dates, murders.."
         }
@@ -1395,7 +1395,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.4000000000000001,
         "data": {
           "text": "remember Selby? you would not -believe- what he's been doing with his grandmother's ashes. gotta say i'm a little sickened."
         }
@@ -1412,7 +1412,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 2,
-        "typingDuration": 0.5,
+        "typingDuration": 0.7000000000000001,
         "data": {
           "text": "soz hang on a moment, gotta let my dog out"
         }
@@ -1429,7 +1429,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.4700000000000002,
         "data": {
           "text": "ugh, sorry about this, but i gotta pop off, he's just not doing his business without a proper walk. spoiled mutt."
         }
@@ -1438,7 +1438,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.12,
         "data": {
           "text": "Sorry for rambling at you. it feels a bit unfair when you're so quiet over text."
         }
@@ -1447,7 +1447,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.6300000000000001,
         "data": {
           "text": "We should catch up some time, when you're free"
         }
@@ -1464,7 +1464,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.4700000000000002,
         "data": {
           "text": "ugh, sorry about this, but i gotta pop off, he's just not doing his business without a proper walk. spoiled mutt."
         }
@@ -1473,7 +1473,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.56,
         "data": {
           "text": "thanks for letting me ramble at you though."
         }
@@ -1482,7 +1482,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.9800000000000001,
         "data": {
           "text": "Wanna come over and hang this week? i can try and return the favour."
         }
@@ -1491,7 +1491,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.49000000000000005,
         "data": {
           "text": "We could, idk, do a jam session."
         }
@@ -1500,7 +1500,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.49000000000000005,
         "data": {
           "text": "you on drums, me as dreamy vocalist."
         }
@@ -1509,7 +1509,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.05,
         "data": {
           "text": "me as dreamy lead guitar when i'm sick of you kicking me for bad lyrics"
         }
@@ -1526,7 +1526,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 1.4000000000000001,
         "data": {
           "text": "Friday. :) see you then, i'll send you my address on fb so my homeboy mark z can join us."
         }
@@ -1543,7 +1543,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 2.31,
         "data": {
           "text": "You, uh, don't seem particularly enthusiastic. And I think I should clarify - they're the worst rap lyrics I've ever written, heard or seen. I hope you appreciate that that's saying a lot."
         }
@@ -1552,7 +1552,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.6300000000000001,
         "data": {
           "text": "You really don't have to indulge me on this."
         }
@@ -1569,7 +1569,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 10,
-        "typingDuration": 0.5,
+        "typingDuration": 0.07,
         "data": {
           "text": ""
         }
@@ -1578,7 +1578,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.8400000000000001,
         "data": {
           "text": "thanks for coming out, that was awesome. :) see you next week!!!"
         }
@@ -1595,7 +1595,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.28,
         "data": {
           "text": "Hey, how's it going?"
         }
@@ -1612,7 +1612,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.07,
         "data": {
           "text": "Really?"
         }
@@ -1630,7 +1630,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 0.5,
+        "typingDuration": 0.77,
         "data": {
           "text": "It was nice catching up with you, though. See you later?"
         }

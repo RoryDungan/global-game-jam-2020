@@ -4,7 +4,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.49000000000000005,
       "data": {
         "text": "Hey, it's good to hear from you!"
       }
@@ -21,7 +21,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.28,
       "data": {
         "text": "New phone, who dis?"
       }
@@ -38,7 +38,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.14,
       "data": {
         "text": "Weird, really?"
       }
@@ -55,7 +55,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.14,
       "data": {
         "text": "I see."
       }
@@ -72,7 +72,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.56,
       "data": {
         "text": "Work, food, sleep. Typical boring adult stuff. You?"
       }
@@ -100,7 +100,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.14,
       "data": {
         "text": "Not much."
       }
@@ -128,7 +128,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 1.05,
       "data": {
         "text": "Of course. Rhythmic stick violence is my only solace in a dull and lonely life."
       }
@@ -145,7 +145,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.56,
       "data": {
         "text": "When I have time, sure. Which isn't often."
       }
@@ -173,7 +173,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.07,
       "data": {
         "text": "Sure!"
       }
@@ -190,7 +190,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.07,
       "data": {
         "text": "K."
       }
@@ -207,7 +207,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.07,
       "data": {
         "text": "No."
       }
@@ -224,7 +224,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.28,
       "data": {
         "text": "Is ska still cool?"
       }
@@ -241,7 +241,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.21000000000000002,
       "data": {
         "text": "Rap lyrics? You?"
       }
@@ -258,7 +258,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.07,
       "data": {
         "text": "Mmk."
       }
@@ -275,7 +275,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.21000000000000002,
       "data": {
         "text": "Show me. Now."
       }
@@ -292,7 +292,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.07,
       "data": {
         "text": "K."
       }
@@ -320,7 +320,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.28,
       "data": {
         "text": "Get on with it."
       }
@@ -337,7 +337,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.35000000000000003,
       "data": {
         "text": "I'm prepared for the worst."
       }
@@ -354,7 +354,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.21000000000000002,
       "data": {
         "text": "It's shit. :)"
       }
@@ -371,7 +371,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.21000000000000002,
       "data": {
         "text": "You're shit. :)"
       }
@@ -399,7 +399,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.6300000000000001,
       "data": {
         "text": "Is that a bit of a jealousy I hear?"
       }
@@ -427,7 +427,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.07,
       "data": {
         "text": "Details?"
       }
@@ -444,7 +444,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.6300000000000001,
       "data": {
         "text": "You've always been the only one for me, babe"
       }
@@ -461,7 +461,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.21000000000000002,
       "data": {
         "text": "No... Not really..."
       }
@@ -478,7 +478,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.28,
       "data": {
         "text": "How's Jackie these days?"
       }
@@ -495,7 +495,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.21000000000000002,
       "data": {
         "text": "Okay, how about..Andrew?"
       }
@@ -512,7 +512,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.07,
       "data": {
         "text": "Sorry."
       }
@@ -529,7 +529,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.42000000000000004,
       "data": {
         "text": "Sorry. What was the worst thing?"
       }
@@ -557,7 +557,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.35000000000000003,
       "data": {
         "text": "I'm glad you reached out."
       }
@@ -585,7 +585,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.49000000000000005,
       "data": {
         "text": "What does he do with the ashes???"
       }
@@ -613,7 +613,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.28,
       "data": {
         "text": "No really, hit me."
       }
@@ -630,7 +630,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.28,
       "data": {
         "text": "Thanks, think I'll pass."
       }
@@ -658,7 +658,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.28,
       "data": {
         "text": "I'd love to. Friday?"
       }
@@ -675,7 +675,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.6300000000000001,
       "data": {
         "text": "Thanks but I'm not that desperate for friends yet."
       }
@@ -692,7 +692,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.14,
       "data": {
         "text": "See you!"
       }
@@ -709,7 +709,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.14,
       "data": {
         "text": "LOVE YOU"
       }
@@ -726,7 +726,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.49000000000000005,
       "data": {
         "text": "Hey, it's good to hear from you!"
       }
@@ -743,7 +743,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.21000000000000002,
       "data": {
         "text": "Miss you, dude."
       }
@@ -760,7 +760,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.07,
       "data": {
         "text": "😱😱😱"
       }
@@ -777,7 +777,7 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.5,
+      "typingDuration": 0.07,
       "data": {
         "text": "🤨"
       }
