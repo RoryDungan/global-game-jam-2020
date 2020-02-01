@@ -41,7 +41,7 @@ export default ({ messageGroup }) => {
       return <ChatServerMessageGroup>
       {
         messageGroup.messages.map((message, i) => (
-          <ChatServerMessage>{message.text}</ChatServerMessage>
+          <ChatServerMessage key={i}>{message.text}</ChatServerMessage>
         ))
       }
       </ChatServerMessageGroup>
