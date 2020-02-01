@@ -2,23 +2,7 @@ import React from 'react';
 import { MessageGroup } from '../';
 import { StyledChatlog } from './Chatlog.styles';
 
-export default ({ chatlog }) => {
-  const conversation = chatlog.reduce((acc, curr) => {
-    if (acc.length <= 0 || acc[acc.length - 1].sender !== curr.sender) {
-      acc.push({
-        sender: curr.sender,
-        messages: []
-      });
-    }
-
-    // TODO: handle images
-    acc[acc.length - 1].messages.push({
-      text: curr.data.text
-    });
-
-    return acc;
-  }, []);
-
+export default ({ conversation }) => {
   return (
     <StyledChatlog>
       {/*<MessageGroup messages={messages} />*/}
