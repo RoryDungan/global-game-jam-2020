@@ -16,4 +16,5 @@ export const Layout = styled.div`
   overflow: hidden;
   display: flex;
   flex-direction: column;
+  background-color: rgb(240, 240, 240);
 `;

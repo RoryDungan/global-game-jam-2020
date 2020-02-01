@@ -1,17 +1,17 @@
 import React from 'react';
-import { MessageGroup } from '../';
+import {
+  MessageGroup,
+  Typing,
+} from '../';
 import { StyledChatlog } from './Chatlog.styles';
 
-export default ({ conversation }) => {
-  return (
-    <StyledChatlog>
-      {/*<MessageGroup messages={messages} />*/}
-      {
-        conversation.map((messageGroup, index) => (
-          <MessageGroup key={index} messageGroup={messageGroup} />
-        ))
-      }
-    </StyledChatlog>
-  );
-}
-
+export default ({ messageGroups }) => (
+  <StyledChatlog>
+    {
+      messageGroups.map((messageGroup, i) => (
+        <MessageGroup messageGroup={messageGroup} key={i} />
+      ))
+    }
+    <Typing />
+  </StyledChatlog>
+);

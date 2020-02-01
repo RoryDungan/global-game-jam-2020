@@ -4,6 +4,7 @@ import notification from './notification.wav';
 import receiveMessage from './receiveMessage.wav';
 import selection from './selection.wav';
 import sendMessage from './sendMessage.wav';
+import themeSong from './themeSong.wav';
 
 export {
   hitBottomMessageLog,
@@ -12,4 +13,5 @@ export {
   receiveMessage,
   selection,
   sendMessage,
+  themeSong,
 }
