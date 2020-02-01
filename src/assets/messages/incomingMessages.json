@@ -48,19 +48,5 @@
         }
       }
     ]
-  },
-  "": {
-    "responseOptions": [
-      null,
-      null
-    ],
-    "messages": [
-      {
-        "type": "text",
-        "data": {
-          "message": "yaaa"
-        }
-      }
-    ]
   }
 }
