@@ -7,8 +7,8 @@ export default ({ conversation }) => {
     <StyledChatlog>
       {/*<MessageGroup messages={messages} />*/}
       {
-        conversation.map(messageGroup => (
-          <MessageGroup messageGroup={messageGroup} />
+        conversation.map((messageGroup, index) => (
+          <MessageGroup key={index} messageGroup={messageGroup} />
         ))
       }
     </StyledChatlog>

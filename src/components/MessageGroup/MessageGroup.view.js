@@ -46,8 +46,9 @@ export default ({ messageGroup }) => (
       }}
     >
       {
-        messageGroup.messages.map(message => (
+        messageGroup.messages.map((message, index) => (
           <MessageBubble
+            key={index}
             text={message.text}
             alignRight
           />
