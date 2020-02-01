@@ -4,6 +4,8 @@ import Chatlog from './Chatlog';
 import Avatar from './Avatar';
 import Header from './Header';
 import Typing from './Typing';
+import OptionsLayout from './OptionsLayout';
+import Button from './Button';
 
 export {
   MessageBubble,
@@ -12,4 +14,6 @@ export {
   Avatar,
   Header,
   Typing,
+  OptionsLayout,
+  Button,
 };
