@@ -26,6 +26,7 @@ const incomingMessages = df.readFileSync('incoming-messages.csv')
     .parseCSV()
     .parseInts(['ID', 'Response 1', 'Response 2'])
     .parseFloats(['Delay', 'Typing duration'])
+    .where(m => m['ID'] !== undefined)
     .groupBy(m => m['ID'])
     .select(group => ({
         id: group.first()['ID'],
@@ -42,6 +43,7 @@ const sendableOptions = df.readFileSync('sendable-options.csv')
     .parseCSV()
     .parseInts(['ID', 'Default destination', 'Seconadary destination'])
     .parseFloats(['Score'])
+    .where(m => m['ID'] !== undefined)
     .groupBy(m => m['ID'])
     .select(group => {
         const paths = []
