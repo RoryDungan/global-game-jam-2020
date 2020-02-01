@@ -1,5 +1,4 @@
 import { createGlobalState } from 'react-hooks-global-state';
-import { incomingMessages } from '../assets/messages';
 
 const { useGlobalState } = createGlobalState({
   currentState: {

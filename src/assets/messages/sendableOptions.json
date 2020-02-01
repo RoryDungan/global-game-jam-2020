@@ -2,9 +2,10 @@
   "1": {
     "messages": [
       {
+        "sender": "me",
         "type": "text",
         "data": {
-          "message": "hi"
+          "text": "hi"
         }
       }
     ],
@@ -17,9 +18,10 @@
   "2": {
     "messages": [
       {
+        "sender": "me",
         "type": "text",
         "data": {
-          "message": "go away"
+          "text": "go away"
         }
       }
     ],

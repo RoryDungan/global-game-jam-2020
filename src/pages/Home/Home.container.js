@@ -42,30 +42,33 @@ export default ({ View, ...props }) => {
 
   }
 
-  const appendMessage = msg => setChatlog([
-    ...chatlog,
-    msg
-  ])
+  const appendMessage = msg => {
+    console.log('adding message: ')
+    console.dir(msg)
+    setChatlog([
+      ...chatlog,
+      msg
+    ])
+  }
 
   const [enterWaitingState] = useState(() => () => {
     const incomingMessage = incomingMessages[currentState.data.messageId];
 
-    console.dir(incomingMessages);
+    console.log('enterWaitingState');
 
     let delay = 0;
     for (const msg of incomingMessage.messages) {
-      console.log('appending message' + msg.data.message);
-
-      setTimeout(() => setTyping(true), delay + msg.delay);
-      setTimeout(() => setTyping(false), delay + msg.delay + msg.typingDuration);
-      setTimeout(() => appendMessage(msg.data), delay + msg.delay + msg.typingDuration);
+      setTimeout(() => setTyping(true), (delay + msg.delay) * 1000);
+      setTimeout(() => setTyping(false), (delay + msg.delay + msg.typingDuration) * 1000);
+      setTimeout(() => appendMessage(msg), (delay + msg.delay + msg.typingDuration) * 1000);
       delay += msg.delay + msg.typingDuration;
     }
 
-    setTimeout(() => setReadyState(incomingMessage.responseOptions), delay)
+    // setTimeout(() => setReadyState(incomingMessage.responseOptions), delay * 1000)
   })
 
   useEffect(() => {
+    console.log(`currentState: ${currentState.type}, prev: ${previousStateType}`)
     if (currentState.type === previousStateType) {
       return;
     }

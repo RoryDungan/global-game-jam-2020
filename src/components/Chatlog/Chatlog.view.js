@@ -2,49 +2,36 @@ import React from 'react';
 import { MessageGroup } from '../';
 import { StyledChatlog } from './Chatlog.styles';
 
-const data = {
-  conversation: [
-    {
-      sender: 'James Addison',
-      messages: [
-        {
-          text: 'Hey, how\'ve you been??',
-        },
-      ],
-    },
-    {
-      sender: 'John Doe',
-      messages: [
-        {
-          text: 'Great! It\'s been such a long time!!! How are you??',
-        },
-      ],
-    },
-    {
-      sender: 'James Addison',
-      messages: [
-        {
-          text: 'It has!',
-        },
-        {
-          text: 'I\'ve been okay, pretty stressed out from work, huge crunch time...',
-        },
-        {
-          text: 'What about you?',
-        },
-      ],
-    },
-  ],
-};
+export default ({ chatlog }) => {
+  console.log('chatlog')
+  console.dir(chatlog)
 
-export default ({ messages }) => (
-  <StyledChatlog>
-    {/*<MessageGroup messages={messages} />*/}
-    {
-      data.conversation.map(messageGroup => (
-        <MessageGroup messageGroup={messageGroup} />
-      ))
+  const conversation = chatlog.reduce((acc, curr) => {
+    if (acc.length <= 0 || acc[acc.length - 1].sender !== curr.sender) {
+      acc.push({
+        sender: curr.sender,
+        messages: []
+      });
     }
-  </StyledChatlog>
-);
+
+    // TODO: handle images
+    acc[acc.length - 1].messages.push({
+      text: curr.data.text
+    });
+
+    return acc;
+  }, []);
+
+  console.dir(conversation)
+  return (
+    <StyledChatlog>
+      {/*<MessageGroup messages={messages} />*/}
+      {
+        conversation.map(messageGroup => (
+          <MessageGroup messageGroup={messageGroup} />
+        ))
+      }
+    </StyledChatlog>
+  );
+}
 

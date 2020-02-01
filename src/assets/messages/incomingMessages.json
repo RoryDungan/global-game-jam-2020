@@ -6,10 +6,21 @@
     ],
     "messages": [
       {
+        "sender": "friend",
         "type": "text",
         "delay": 1,
+        "typingDuration": 1,
         "data": {
-          "message": "hello"
+          "text": "hello"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 1,
+        "typingDuration": 1,
+        "data": {
+          "text": "what's up?"
         }
       }
     ]
@@ -21,10 +32,11 @@
     ],
     "messages": [
       {
+        "sender": "friend",
         "type": "text",
         "typingDuration": 4,
         "data": {
-          "message": "whatever"
+          "text": "whatever"
         }
       }
     ]
@@ -36,15 +48,17 @@
     ],
     "messages": [
       {
+        "sender": "friend",
         "type": "text",
         "data": {
-          "message": "long time"
+          "text": "long time"
         }
       },
       {
+        "sender": "friend",
         "type": "text",
         "data": {
-          "message": "sup"
+          "text": "sup"
         }
       }
     ]
