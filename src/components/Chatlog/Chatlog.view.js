@@ -1,5 +1,8 @@
 import React from 'react';
-import { MessageGroup } from '../';
+import {
+  MessageGroup,
+  Typing,
+} from '../';
 import { StyledChatlog } from './Chatlog.styles';
 
 export default ({ messageGroups }) => (
@@ -9,6 +12,6 @@ export default ({ messageGroups }) => (
         <MessageGroup messageGroup={messageGroup} key={i} />
       ))
     }
+    <Typing />
   </StyledChatlog>
 );
-

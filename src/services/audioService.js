@@ -1,4 +1,5 @@
-import UIfx from 'uifx'
+import UIfx from 'uifx';
+import { HowlerSoundController } from 'howler-sound-controller';
 
 import {
   hitBottomMessageLog,
@@ -7,46 +8,57 @@ import {
   receiveMessage,
   selection,
   sendMessage,
+  themeSong,
 } from '../assets/audio';
 
 const sounds = {
   hitBottomMessage:  new UIfx(
     hitBottomMessageLog,
     {
-      volume: 0.4,
+      volume: 1,
       throttleMs: 100,
     },
   ),
   hitTopMessage: new UIfx(
     hitTopMessageLog,
     {
-      volume: 0.4,
+      volume: 1,
       throttleMs: 100,
     },
   ),
   notification: new UIfx(
     notification,
     {
-      volume: 0.4,
+      volume: 1,
       throttleMs: 100,
     },
   ),
   receiveMessage: new UIfx(
     receiveMessage,
     {
-      volume: 0.4,
+      volume: 1,
       throttleMs: 100,
     },
   ),
   selection: new UIfx(
     selection,
     {
-      volume: 0.4,
+      volume: 1,
       throttleMs: 100,
     },
   ),
   sendMessage: new UIfx(
     sendMessage,
+    {
+      volume: 1,
+      throttleMs: 100,
+    },
+  ),
+};
+
+const musics = {
+  themeSong: new UIfx(
+    themeSong,
     {
       volume: 0.4,
       throttleMs: 100,
@@ -63,6 +75,26 @@ export const SOUNDS = {
   SEND_MESSAGE: 'sendMessage',
 };
 
+export const MUSICS = {
+  THEME: 'themeSong',
+};
+
 export const playSound = sound => {
   sounds[sound].play();
 };
+
+export const playMusic = music => {
+  musics[music].play();
+};
+
+const controller = HowlerSoundController;
+const loader = controller.getLoader();
+
+loader
+  .add('themeSong', { src: [themeSong], volume: 0.2 });
+
+loader.once('loaded', () => {
+  // controller.playBackground('themeSong');
+});
+
+loader.load();

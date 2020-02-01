@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { avatarImage } from '../../assets/images';
+import { MUSICS, playMusic } from '../../services/audioService';
 
 export default ({ View, ...props }) => {
   const [chatlog, setChatlog] = useState({
@@ -12,9 +13,9 @@ export default ({ View, ...props }) => {
     },
   });
 
-  useEffect(() => {
-
-  }, [chatlog]);
+  // useEffect(() => {
+  //   playMusic(MUSICS.THEME);
+  // }, []);
 
   return (
     <View {...props} chatlog={chatlog} otherUser={otherUser} />
