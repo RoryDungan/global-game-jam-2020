@@ -1,9 +1,8 @@
-[
-  {
-    "id": 1,
+{
+  "1": {
     "responseOptions": [
-      1,
-      2
+      "1",
+      "2"
     ],
     "messages": [
       {
@@ -15,11 +14,10 @@
       }
     ]
   },
-  {
-    "id": 2,
+  "2": {
     "responseOptions": [
-      null,
-      null
+      "",
+      ""
     ],
     "messages": [
       {
@@ -31,11 +29,10 @@
       }
     ]
   },
-  {
-    "id": 3,
+  "3": {
     "responseOptions": [
-      null,
-      null
+      "",
+      ""
     ],
     "messages": [
       {
@@ -52,4 +49,4 @@
       }
     ]
   }
-]
+}

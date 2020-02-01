@@ -1,6 +1,5 @@
-[
-  {
-    "id": 1,
+{
+  "1": {
     "messages": [
       {
         "type": "text",
@@ -11,12 +10,11 @@
     ],
     "paths": [
       {
-        "destination": 2
+        "destination": "2"
       }
     ]
   },
-  {
-    "id": 2,
+  "2": {
     "messages": [
       {
         "type": "text",
@@ -27,8 +25,8 @@
     ],
     "paths": [
       {
-        "destination": 2
+        "destination": "2"
       }
     ]
   }
-]
+}
