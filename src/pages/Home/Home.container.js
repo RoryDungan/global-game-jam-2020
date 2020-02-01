@@ -16,27 +16,38 @@ export default ({ View, ...props }) => {
 
   const [previousStateType, setPreviousStateType] = useState('')
 
-  const setTyping = isFriendTyping => setCurrentState({
-    ...currentState,
-    data: {
-      ...currentState.data,
-      isFriendTyping,
-    }
-  });
+  // const setTyping = isFriendTyping => setCurrentState({
+  //   ...currentState,
+  //   data: {
+  //     ...currentState.data,
+  //     isFriendTyping,
+  //   }
+  // });
+  const setTyping = () => {}
 
-  const setReadyState = options => setCurrentState({
+  const setReadyState = options => {
+    console.log('SETTING READY STATE')
+    console.dir(options)
+    setCurrentState({
     type: 'ready',
     data: {
       options
     }
   })
+}
 
-  const setWaitingState = messageId => setCurrentState({
-    type: 'waiting',
-    data: {
-      messageId
-    }
-  })
+  const setWaitingState = messageId => {
+    const destinations = sendableOptions[messageId].paths
+
+    console.log('setWaitingState, messageId: ' +  destinations[0].destination)
+
+    setCurrentState({
+      type: 'waiting',
+      data: {
+        messageId: destinations[0].destination
+      }
+    })
+  }
 
   const enterReadyState = () => {
 
@@ -51,10 +62,10 @@ export default ({ View, ...props }) => {
     chatlog = newChatlog;
   }
 
-  const [enterWaitingState] = useState(() => () => {
+  const enterWaitingState = () => {
     const incomingMessage = incomingMessages[currentState.data.messageId];
 
-    console.log('enterWaitingState');
+    console.log('enterWaitingState, messageId: ' + currentState.data.messageId);
 
     let delay = 0;
     for (const msg of incomingMessage.messages) {
@@ -64,15 +75,10 @@ export default ({ View, ...props }) => {
       delay += msg.delay + msg.typingDuration;
     }
 
-    // setTimeout(() => setReadyState(incomingMessage.responseOptions), delay * 1000)
-  })
+    setTimeout(() => setReadyState(incomingMessage.responseOptions), delay * 1000)
+  }
 
-  useEffect(() => {
-    console.log(`currentState: ${currentState.type}, prev: ${previousStateType}`)
-    if (currentState.type === previousStateType) {
-      return;
-    }
-
+  if (currentState.type !== previousStateType) {
     setPreviousStateType(currentState.type);
 
     switch (currentState.type) {
@@ -85,9 +91,13 @@ export default ({ View, ...props }) => {
       default:
         break;
     }
-  }, [currentState, enterWaitingState, previousStateType, setPreviousStateType]);
+  }
 
   return (
-    <View {...props} chatlog={chatlog} otherUser={otherUser} />
+    <View {...props}
+      chatlog={chatlog}
+      otherUser={otherUser}
+      options={currentState.data.options || []}
+      onOptionSelected={setWaitingState} />
   );
 };

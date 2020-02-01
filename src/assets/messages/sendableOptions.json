@@ -1,14 +1,12 @@
 {
   "1": {
-    "messages": [
-      {
-        "sender": "me",
-        "type": "text",
-        "data": {
-          "text": "hi"
-        }
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "data": {
+        "text": "hi"
       }
-    ],
+    },
     "paths": [
       {
         "destination": "2"
@@ -16,18 +14,30 @@
     ]
   },
   "2": {
-    "messages": [
-      {
-        "sender": "me",
-        "type": "text",
-        "data": {
-          "text": "go away"
-        }
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "data": {
+        "text": "go away"
       }
-    ],
+    },
     "paths": [
       {
         "destination": "2"
+      }
+    ]
+  },
+  "3": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "data": {
+        "text": "nothing much"
+      }
+    },
+    "paths": [
+      {
+        "destination": "3"
       }
     ]
   }

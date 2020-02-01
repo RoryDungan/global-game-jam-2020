@@ -2,13 +2,14 @@ import React from 'react';
 import { StyledButton } from './Button.styles';
 import { SOUNDS, playSound } from '../../services/audioService';
 
-export default ({ style }) => (
+export default ({ content, onClick, style }) => (
   <StyledButton
     style={style}
     onClick={() => {
       playSound(SOUNDS.SEND_MESSAGE);
+      onClick();
     }}
   >
-    Testing the average sentence length. you play a character of few words.
+    {content}
   </StyledButton>
 );

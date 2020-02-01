@@ -9,7 +9,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 1,
-        "typingDuration": 1,
+        "typingDuration": 0,
         "data": {
           "text": "hello"
         }
@@ -20,15 +20,15 @@
         "delay": 1,
         "typingDuration": 1,
         "data": {
-          "text": "what's up?"
+          "text": "what’s up"
         }
       }
     ]
   },
   "2": {
     "responseOptions": [
-      "",
-      ""
+      "3",
+      "1"
     ],
     "messages": [
       {
