@@ -18,7 +18,12 @@ export const SelfMessageGroup = styled.div`
 
 export const ChatServerMessageGroup = styled.div`
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
   padding: 1em;
   color: rgb(110,110,110);
+`;
+
+export const ChatServerMessage = styled.div`
+margin: 16px;
 `;

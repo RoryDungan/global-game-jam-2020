@@ -1,6 +1,11 @@
 import React from 'react';
 import { MessageBubble } from '../';
-import { ChatServerMessageGroup, FriendMessageGroup, SelfMessageGroup } from './MessageGroup.styles';
+import {
+  ChatServerMessage,
+  ChatServerMessageGroup,
+  FriendMessageGroup,
+  SelfMessageGroup
+} from './MessageGroup.styles';
 
 export default ({ messageGroup }) => {
   switch (messageGroup.sender) {
@@ -36,7 +41,7 @@ export default ({ messageGroup }) => {
       return <ChatServerMessageGroup>
       {
         messageGroup.messages.map((message, i) => (
-          message.text
+          <ChatServerMessage>{message.text}</ChatServerMessage>
         ))
       }
       </ChatServerMessageGroup>
