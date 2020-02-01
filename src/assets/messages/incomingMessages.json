@@ -1,6 +1,120 @@
 {
   "1": {
     "responseOptions": [
+      "1a",
+      "1b"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Hi, it's Les, from high school. How've you been? I bumped into Matty yesterday at a bar and it made me wonder what you and the rest of the gang has been up to for the last five years! We should catch up some time, if you're still in Sydney.\nCheers,\nLeslie Lee"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Uh, that is, if this is still your number. Ignore these messages if you don't know who I am, I guess?"
+        }
+      }
+    ]
+  },
+  "7": {
+    "responseOptions": [
+      "8a",
+      "8b"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Yeah... You'll try anything if you're unemployed for more than three months."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Those lyrics were real works of art though, just saying."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "somewhere, kendrick lamar wept a single tear for each and every second I spent recording them, and he doesn't know why"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "unless of course he's one of the 46"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "wanna see?"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "I mean, you really, really don't have to."
+        }
+      }
+    ]
+  },
+  "8": {
+    "responseOptions": [
+      "9a",
+      "9b"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Um. You sure? Not sure if my tone came across in text, but they're uh."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "astonishingly bad."
+        }
+      }
+    ]
+  },
+  "132": {
+    "responseOptions": [
       "1",
       "2"
     ],
@@ -8,10 +122,793 @@
       {
         "sender": "friend",
         "type": "text",
-        "delay": 1,
-        "typingDuration": 0,
+        "delay": 0.5,
+        "typingDuration": 0.5,
         "data": {
-          "text": "hello"
+          "text": "Do you remember Selby? Pretty sure he's making"
+        }
+      }
+    ]
+  },
+  "2a": {
+    "responseOptions": [
+      "2a",
+      "2b"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Same! And glad I'm not texting some budget laundromat or something, haha. Glad this number still works and everything."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Guessing you've been out of touch with everyone, unless it was just me and Matt haha. He mentioned he hadn't heard from you either, not since graduation.  Not sure if you knew, but he's in finance now, of all things??"
+        }
+      }
+    ]
+  },
+  "2b": {
+    "responseOptions": [
+      "2a",
+      "2b"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 1,
+        "typingDuration": 0.2,
+        "data": {
+          "text": "Wow."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Ten year old meme, it must be you"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.75,
+        "data": {
+          "text": "Have you been ghosting everyone? Matt mentioned he hadn't heard from you since graduation. Not sure if you knew, but he's in finance now, of all things??"
+        }
+      }
+    ]
+  },
+  "3a": {
+    "responseOptions": [
+      "3a",
+      "3b"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 1,
+        "data": {
+          "text": "I know right? Doing really well too. Really weird seeing him, he had cufflinks and the watch and the manicure and everything. All I could think about the whole time was him getting that award at the year 12 presentation for \"Most Likely To Go to Jail\"."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Though he could still end up in jail, come to think about it. Just, for tax fraud instead of for waxing a teacher's chihuahua."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Anyway, what are you up to these days?"
+        }
+      }
+    ]
+  },
+  "3b": {
+    "responseOptions": [
+      "3a",
+      "3b"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Yeah."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "So what are you up to these days?"
+        }
+      }
+    ]
+  },
+  "4a": {
+    "responseOptions": [
+      "4a",
+      "4b"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Eh, same. Been bouncing between jobs, trying new stuff out. Computer support at the moment, for old people who think I'm a hacker when they see my phone in dark mode."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0,
+        "typingDuration": 0.5,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 4,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "You still drum much these days?"
+        }
+      }
+    ]
+  },
+  "4b": {
+    "responseOptions": [
+      "4a",
+      "4b"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Cool, cool. Me too."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0,
+        "typingDuration": 0.5,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 4,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Do you still play drums much these days?"
+        }
+      }
+    ]
+  },
+  "4c": {
+    "responseOptions": [
+      "4a",
+      "4b"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Eh, same. Been bouncing between jobs, trying new stuff out. Computer support at the moment, for old people who think I'm a hacker because I use my phone on dark mode."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0,
+        "typingDuration": 0.5,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 4,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "so, wax any chihuahuas lately?"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0,
+        "typingDuration": 0.25,
+        "data": {
+          "text": "Shit, didn't mean to send that. I meant"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Uh. You still play drums these days?"
+        }
+      }
+    ]
+  },
+  "5a": {
+    "responseOptions": [
+      "6a",
+      "6b"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "nice. hashtag relatable."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Could have used a drummer a few years back when I was trying to get into the  music scene."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Thought of getting in touch with you but you're not really into.. \"cool\" music are you?"
+        }
+      }
+    ]
+  },
+  "5b": {
+    "responseOptions": [
+      "6a",
+      "6b"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Oh ok, cool"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "I did start a band a few years ago. Thought of getting in touch with you, but figured we'd try a few singles first, so we could tempt you with our success."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "You might have heard of us actually, do you listen to much new stuff?"
+        }
+      }
+    ]
+  },
+  "5c": {
+    "responseOptions": [
+      "E1",
+      "E2"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Oh ok, cool"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 1,
+        "typingDuration": 0.5,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.2,
+        "typingDuration": 0.2,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 1,
+        "typingDuration": 0.5,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "So my dog's been begging me for love for the past ten minutes. I should probably take him for a walk."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "It was nice catching up with you, we should grab a drink some time!"
+        }
+      }
+    ]
+  },
+  "E1": {
+    "responseOptions": [
+      "1",
+      "2"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 2,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 1,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 3,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 1,
+        "typingDuration": 0.5,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Catch you later!"
+        }
+      }
+    ]
+  },
+  "6a": {
+    "responseOptions": [
+      "7a",
+      "7b"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Definitely wouldn't have heard of us then."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Though FYI, at one point we had over 50 subscribers, so, y'know, I'm basically YouTube famous."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "I mean, at least 46 of those were there for my sick rap lyrics. The other 4 were in the band."
+        }
+      }
+    ]
+  },
+  "6b": {
+    "responseOptions": [
+      "7a",
+      "7b"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Aight, guess that's a no."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Shame. You know, at one point we had over 50 subscribers, so, y'know, kind of a big deal."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Though, at least 46 of those were there for my sick rap lyrics. The other 4 were in the band."
+        }
+      }
+    ]
+  },
+  "9a": {
+    "responseOptions": [
+      "10a",
+      "10b"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Aight, give me a moment to find them. you may want to find a seat to swoon on."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Aw hell, they're even worse than I remember. ok brace yourself."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "last night i made a taco, but to my despair\ni ran outta veg, a deplorable affair\nthe oven was on\naint noone else home\nnot now, not ever\nfor a grocery run\nso i dug up ol Succ\nol Succ the Succulent \nshitty housewarming gift\nfrom a relative miffed\ni cut her into pieces\nlittle itty bitty pieces\nitty bitty\nbitty titty\n(skipping some lines, this goes on for a while)\ntitty titty pieces\nshe tasted like sap and regret\nbut mostly sap"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 4,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "that's, um, one of the better ones."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Thoughts? and don't worry, nothing you say can be more hurtful than a youtube comment section."
+        }
+      }
+    ]
+  },
+  "9b": {
+    "responseOptions": [
+      "11a",
+      "11b"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "good choice, honestly"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Didn't think it's what I'd be doing when I graduated, but what can you do. I couldn't have guessed what anyone in our year would end up doing."
+        }
+      }
+    ]
+  },
+  "10a": {
+    "responseOptions": [
+      "1",
+      "2"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "i know, i'm so damn proud."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "so anyway that's the story of how i got into IT. didn't think it's what I'd be doing when I graduated\nthat said, man, have you seen what the others are up to these days? Wild stuff."
+        }
+      }
+    ]
+  },
+  "10b": {
+    "responseOptions": [
+      "11a",
+      "11b"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "not exactly what i saw myself doing when i graduated, but then, i couldn't have guessed what anyone in our year would end up doing."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 2,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "wow ok, personal"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "guess you proved me wrong."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "anyway that's the story of how i got into IT."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Everyone else in our year seems to be doing well.."
+        }
+      }
+    ]
+  },
+  "11a": {
+    "responseOptions": [
+      "12a",
+      "12b"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "yeah. yeah maybe."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "no-one warns you how crap it gets after school."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "well they do. but then they also tell you trigonometry is useful and that wanking makes you go blind."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "and i dunno about you but i havent had to do anything more complicated than adding 2 and 2 since high school, and"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 2,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 1,
+        "typingDuration": 0.5,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Ok i'm getting off topic, but"
         }
       },
       {
@@ -20,45 +917,521 @@
         "delay": 1,
         "typingDuration": 1,
         "data": {
-          "text": "what’s up"
-        }
-      }
-    ]
-  },
-  "2": {
-    "responseOptions": [
-      "3",
-      "1"
-    ],
-    "messages": [
-      {
-        "sender": "friend",
-        "type": "text",
-        "typingDuration": 4,
-        "data": {
-          "text": "whatever"
-        }
-      }
-    ]
-  },
-  "3": {
-    "responseOptions": [
-      "2",
-      "1"
-    ],
-    "messages": [
-      {
-        "sender": "friend",
-        "type": "text",
-        "data": {
-          "text": "long time"
+          "text": "some things were just simpler at school."
         }
       },
       {
         "sender": "friend",
         "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
         "data": {
-          "text": "sup"
+          "text": "you had your mates there, everywhere, everyday."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "if you weren't ok, it wasn't just your fault, y'know? probably a crap homelife, or crap teachers, or the crap board of studies."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "out of school though, if you're not okay, it's just a problem with -you-, right, like it's hunting season and you're the star turkey and"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0,
+        "typingDuration": 0.2,
+        "data": {
+          "text": "do people hunt turkeys anywhere outside the US?"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "i'm rambling, I know"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 3,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Sorry, that got a bit too real for small talk. Last person you'd expect to miss school, right?"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Except maybe Matt. Bet he misses being able to drop peanut butter down people's pants without worrying about getting fired."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "And nang wang. Good old nang wang. Must have hated being called nang wang."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "It's what he gets for smuggling like that"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 2,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Anyway, kept in touch with anyone else?"
+        }
+      }
+    ]
+  },
+  "11b": {
+    "responseOptions": [
+      "1",
+      "2"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "If only you hadn't deleted fb, eh?"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Alright, name someone, and I'll spill what dirty deets I know."
+        }
+      }
+    ]
+  },
+  "11c": {
+    "responseOptions": [
+      "E1",
+      "E2"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Haha, what?"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "I don't know, maybe."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 2,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 1,
+        "typingDuration": 0.5,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.2,
+        "typingDuration": 0.2,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 1,
+        "typingDuration": 0.5,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "So my dog's been begging me for love for the past ten minutes. I should probably take him for a walk."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "It was nice catching up with you, we should grab a drink some time!"
+        }
+      }
+    ]
+  },
+  "12a": {
+    "responseOptions": [
+      "13a",
+      "13b"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "gross. just like that, you've ruined me for marriage"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "ok ok, ask me about someone, anyone. I can't believe you've missed out on the wild shit they've gotten up to"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "and unlike -some- people I didn't dramatically quit Facebook the moment I started uni."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "not that I went to uni. which you'd know if you were on fb, because my life's all there, SoundCloud links and everything."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "hope zuckerberg likes my sick raps"
+        }
+      }
+    ]
+  },
+  "12b": {
+    "responseOptions": [
+      "13a",
+      "13b"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "wish it were otherwise, but same."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "still! unlike -some- people I didn't dramatically quit Facebook the moment I started uni."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "not that I went to uni. which you'd know if you were on fb, because my life is -all- there, SoundCloud links and everything."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "hope zuckerberg likes my sweet raps"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "anyway point is, through the magic of the systematic devaluation of privacy that is social media, i know what everyone's been up to. Ask me about someone, anyone."
+        }
+      }
+    ]
+  },
+  "13a": {
+    "responseOptions": [
+      "14a",
+      "14b"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 6,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Um, how would I know?"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Okay anyone but Jackie."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 1,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 1,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Do you not remember how that went down or is this you telling me to fuck off"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 2,
+        "data": {
+          "text": "Sorry,  forget I said that. It's been ten years and it wasn't your dumb high school breakup. And it wasn't the worst thing that happened that year or anything."
+        }
+      }
+    ]
+  },
+  "E4": {
+    "responseOptions": [
+      "1",
+      "2"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 1,
+        "typingDuration": 2,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 4,
+        "typingDuration": 0.5,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 1,
+        "typingDuration": 1,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 2,
+        "typingDuration": 0.5,
+        "data": {
+          "text": ""
+        }
+      }
+    ]
+  },
+  "14c": {
+    "responseOptions": [
+      "E1",
+      "E2"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 2,
+        "typingDuration": 4,
+        "data": {
+          "text": "Oh man, sorry, think my dog's asking for a walk. Better take him before there's a mess."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "It was nice catching up with you, though. Talk soon?"
+        }
+      }
+    ]
+  },
+  "13b": {
+    "responseOptions": [
+      "15a",
+      "15b"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "Andrew Comby. Oh Andrew. Jock. Weird hot wing addiction. Surprisingly nice, aside from a small tendency to political incorrectness, but hey, that's high school, right?"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "he's vegetarian now, actually, so there's that."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "also he's a ski instructor in the czech republic by day"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "wildlife conservationist by night? some kind of jazz performer, but half his proceeds go to ALKA, which is the czech RSPCA as far as i can tell"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "and he didnt tell his girlfriend he was moving until he was already there, so that was a whole shitshow she dragged his sister and brother into right on to his timeline."
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "it was excellent"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.5,
+        "data": {
+          "text": "he's not even one the weirdest one though, no coverups, no failed political careers. Or sex scandals, b-list celebrity dates, a-list celebrity dates, murders."
         }
       }
     ]

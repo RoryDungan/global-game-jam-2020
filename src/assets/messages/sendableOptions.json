@@ -1,57 +1,2484 @@
 {
-  "1": {
+  "30": {
     "message": {
       "sender": "me",
       "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
       "data": {
-        "text": "hi"
+        "text": ""
       }
     },
     "paths": [
       {
-        "destination": "3"
+        "destination": ""
       }
     ]
   },
-  "2": {
+  "31": {
     "message": {
       "sender": "me",
       "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
       "data": {
-        "text": "go away"
+        "text": ""
       }
     },
     "paths": [
       {
-        "destination": "2"
+        "destination": ""
       }
     ]
   },
-  "3": {
+  "32": {
     "message": {
       "sender": "me",
       "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
       "data": {
-        "text": "nothing much"
+        "text": ""
       }
     },
     "paths": [
       {
-        "destination": "3"
+        "destination": ""
       }
     ]
   },
-  "4": {
+  "33": {
     "message": {
       "sender": "me",
       "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
       "data": {
-        "text": "yaaaaa"
+        "text": ""
       }
     },
     "paths": [
       {
-        "destination": "1"
+        "destination": ""
+      }
+    ]
+  },
+  "34": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "35": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "36": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "37": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "38": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "39": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "40": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "41": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "42": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "43": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "44": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "45": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "46": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "47": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "48": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "49": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "50": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "51": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "52": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "53": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "54": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "55": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "56": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "57": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "58": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "59": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "60": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "61": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "62": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "63": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "64": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "65": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "66": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "67": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "68": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "69": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "70": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "71": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "72": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "73": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "74": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "75": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "76": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "77": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "78": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "79": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "80": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "81": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "82": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "83": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "84": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "85": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "86": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "87": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "88": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "89": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "90": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "91": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "92": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "93": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "94": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "95": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "96": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "97": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "98": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "99": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "100": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "101": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "102": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "103": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "104": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "105": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "106": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "107": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "108": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "109": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "110": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "111": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "112": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "113": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "114": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "115": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "116": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "117": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "118": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "119": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "120": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "121": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "122": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "123": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "124": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "125": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "126": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "127": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "128": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "129": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "130": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "131": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "132": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "133": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "134": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "135": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "136": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "137": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "138": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "139": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "140": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "141": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "142": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "143": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "144": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "145": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "146": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "147": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "148": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "1a": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "Hey, it's good to hear from you!"
+      }
+    },
+    "paths": [
+      {
+        "destination": "2a"
+      }
+    ]
+  },
+  "1b": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "New phone, who dis?"
+      }
+    },
+    "score": 1,
+    "paths": [
+      {
+        "destination": "2b"
+      }
+    ]
+  },
+  "2a": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "Weird, really?"
+      }
+    },
+    "score": 1,
+    "paths": [
+      {
+        "destination": "3a"
+      }
+    ]
+  },
+  "2b": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "I see."
+      }
+    },
+    "paths": [
+      {
+        "destination": "3b"
+      }
+    ]
+  },
+  "3a": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "Work, food, sleep. Typical boring adult stuff. You?"
+      }
+    },
+    "score": 1,
+    "paths": [
+      {
+        "requirements": [
+          {
+            "score": {
+              "min": 9999,
+              "max": 9999
+            }
+          }
+        ],
+        "destination": "4c"
+      },
+      {
+        "destination": "4a"
+      }
+    ]
+  },
+  "3b": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "Not much."
+      }
+    },
+    "score": -1,
+    "paths": [
+      {
+        "requirements": [
+          {
+            "score": {
+              "min": 9999,
+              "max": 9999
+            }
+          }
+        ],
+        "destination": "E4"
+      },
+      {
+        "destination": "4b"
+      }
+    ]
+  },
+  "4a": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "Of course. Rhythmic stick violence is my only solace in a dull and lonely life."
+      }
+    },
+    "score": 1,
+    "paths": [
+      {
+        "destination": "5a"
+      }
+    ]
+  },
+  "4b": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "When I have time, sure. Which isn't often."
+      }
+    },
+    "score": 0,
+    "paths": [
+      {
+        "requirements": [
+          {
+            "score": {
+              "min": 9999,
+              "max": 9999
+            }
+          }
+        ],
+        "destination": "5c"
+      },
+      {
+        "destination": "5b"
+      }
+    ]
+  },
+  "E1": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "Sure!"
+      }
+    },
+    "score": 0,
+    "paths": [
+      {
+        "destination": "E1"
+      }
+    ]
+  },
+  "E2": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "Definitely."
+      }
+    },
+    "score": 0,
+    "paths": [
+      {
+        "destination": "E1"
+      }
+    ]
+  },
+  "6a": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "No."
+      }
+    },
+    "score": 0,
+    "paths": [
+      {
+        "destination": "6a"
+      }
+    ]
+  },
+  "6b": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "Is ska still cool?"
+      }
+    },
+    "score": 0,
+    "paths": [
+      {
+        "destination": "6b"
+      }
+    ]
+  },
+  "7a": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "Rap lyrics? You?"
+      }
+    },
+    "score": 0,
+    "paths": [
+      {
+        "destination": "7"
+      }
+    ]
+  },
+  "7b": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "I see."
+      }
+    },
+    "score": 0,
+    "paths": [
+      {
+        "destination": "7"
+      }
+    ]
+  },
+  "8a": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "Show me. Show me show me."
+      }
+    },
+    "score": 1,
+    "paths": [
+      {
+        "destination": "8"
+      }
+    ]
+  },
+  "8b": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "Think I'll pass, thanks."
+      }
+    },
+    "score": -1,
+    "paths": [
+      {
+        "requirements": [
+          {
+            "score": {
+              "min": 9999,
+              "max": 9999
+            }
+          }
+        ],
+        "destination": "E4"
+      },
+      {
+        "destination": "9b"
+      }
+    ]
+  },
+  "9a": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "Get on with it."
+      }
+    },
+    "paths": [
+      {
+        "destination": "9a"
+      }
+    ]
+  },
+  "9b": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "I'm prepared for the worst."
+      }
+    },
+    "score": 1,
+    "paths": [
+      {
+        "destination": "9a"
+      }
+    ]
+  },
+  "10a": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "It's shit. :)"
+      }
+    },
+    "score": 0,
+    "paths": [
+      {
+        "destination": "10a"
+      }
+    ]
+  },
+  "10b": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "You're shit. :)"
+      }
+    },
+    "score": -2,
+    "paths": [
+      {
+        "requirements": [
+          {
+            "score": {
+              "min": 9999,
+              "max": 9999
+            }
+          }
+        ],
+        "destination": "E4"
+      },
+      {
+        "destination": "10b"
+      }
+    ]
+  },
+  "11a": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "Is that a bit of a jealousy I hear?"
+      }
+    },
+    "score": 0,
+    "paths": [
+      {
+        "requirements": [
+          {
+            "score": {
+              "min": 9999,
+              "max": 9999
+            }
+          }
+        ],
+        "destination": "11c"
+      },
+      {
+        "destination": "11a"
+      }
+    ]
+  },
+  "11b": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "Details?"
+      }
+    },
+    "paths": [
+      {
+        "destination": "11b"
+      }
+    ]
+  },
+  "12a": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "You've always been the only one for me, babe"
+      }
+    },
+    "score": 1,
+    "paths": [
+      {
+        "destination": "12a"
+      }
+    ]
+  },
+  "12b": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "No... Not really..."
+      }
+    },
+    "paths": [
+      {
+        "destination": "12b"
+      }
+    ]
+  },
+  "13a": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "How's Jackie these days?"
+      }
+    },
+    "score": -3,
+    "paths": [
+      {
+        "destination": "13a"
+      }
+    ]
+  },
+  "13b": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "Okay, how about..Andrew?"
+      }
+    },
+    "paths": [
+      {
+        "destination": "13b"
+      }
+    ]
+  },
+  "14a": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "Sorry."
+      }
+    },
+    "score": 1,
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "14b": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": "Sorry. What was the worst thing?"
+      }
+    },
+    "score": -1,
+    "paths": [
+      {
+        "requirements": [
+          {
+            "score": {
+              "min": 9999,
+              "max": 9999
+            }
+          }
+        ],
+        "destination": "E4"
+      },
+      {
+        "destination": "14c"
+      }
+    ]
+  },
+  "15a": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
+      }
+    ]
+  },
+  "15b": {
+    "message": {
+      "sender": "me",
+      "type": "text",
+      "delay": 0.5,
+      "typingDuration": 0.5,
+      "data": {
+        "text": ""
+      }
+    },
+    "paths": [
+      {
+        "destination": ""
       }
     ]
   }
