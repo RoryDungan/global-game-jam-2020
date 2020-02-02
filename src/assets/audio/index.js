@@ -4,8 +4,7 @@ import notification from './notification.m4a';
 import receiveMessage from './receiveMessage.m4a';
 import selection from './selection.m4a';
 import sendMessage from './sendMessage.m4a';
-import themeSong from './themeSong.m4a';
-import themeSong2 from './themeSong2.m4a';
+import themeSong from './GGJ_longer_instrumental.m4a';
 
 export {
   hitBottomMessageLog,
@@ -14,6 +13,5 @@ export {
   receiveMessage,
   selection,
   sendMessage,
-  themeSong,
-  themeSong2,
+  themeSong
 }

@@ -8,8 +8,7 @@ import {
   receiveMessage,
   selection,
   sendMessage,
-  // themeSong,
-  themeSong2,
+  themeSong,
 } from '../assets/audio';
 
 const sounds = {
@@ -76,11 +75,6 @@ export const SOUNDS = {
   SEND_MESSAGE: 'sendMessage',
 };
 
-export const MUSICS = {
-  THEME: 'themeSong',
-  THEME2: 'themeSong2',
-};
-
 export const playSound = sound => {
   sounds[sound].play();
 };
@@ -93,10 +87,10 @@ const controller = HowlerSoundController;
 const loader = controller.getLoader();
 
 loader
-  .add('themeSong2', { src: [themeSong2], volume: 0.2 });
+  .add('themeSong', { src: [themeSong], volume: 0.2 });
 
 loader.once('loaded', () => {
-  controller.playBackground('themeSong2');
+  controller.playBackground('themeSong');
 });
 
 loader.load();
