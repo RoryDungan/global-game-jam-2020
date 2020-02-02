@@ -14,6 +14,10 @@ background-color: ;
   box-shadow: -4px 4px 0px 0px rgb(85, 84, 99);
 `;
 
+export const Paragraph = styled.div`
+margin: 0;
+`;
+
 export const Container = styled.div`
   position: relative;
   max-width: 75%;

@@ -13,10 +13,13 @@ data: {
 // );
 
 import React from 'react';
-import { Bubble, Container } from './MessageBubble.styles';
+import { Bubble, Container, Paragraph } from './MessageBubble.styles';
 
 export default ({ text, alignRight }) => (
   <Container alignRight={alignRight}>
-    <Bubble alignRight={alignRight}>{text}</Bubble>
+    <Bubble alignRight={alignRight}>
+      {/* {text} */}
+      {text.split('\n').map(m => <Paragraph>{m}</Paragraph>)}
+    </Bubble>
   </Container>
 );
