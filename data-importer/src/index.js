@@ -90,6 +90,21 @@ const sendableOptions = toObj(df.readFileSync('sendable-options.csv')
 console.dir(sendableOptions)
 
 fs.writeFileSync('sendableOptions.json', JSON.stringify(sendableOptions, null, 2))
+const messageHistory = df.readFileSync('message-history.csv')
+    .parseCSV()
+    .where(m => m['Message'])
+    .select(m => ({
+        sender: m['Sender'],
+        type: 'text',
+        data: {
+            text: m['Message']
+        }
+    }))
+    .toArray();
+
+console.dir(messageHistory)
+
+fs.writeFileSync('messageHistory.json', JSON.stringify(messageHistory, null, 2))
 
 }
 
