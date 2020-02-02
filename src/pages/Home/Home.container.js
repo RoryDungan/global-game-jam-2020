@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { avatarImage } from '../../assets/images';
 import { useGlobalState } from '../../services/stateService';
 import { incomingMessages, sendableOptions } from '../../assets/messages';
+import { playSound, SOUNDS } from '../../services/audioService';
 
 export default ({ View, ...props }) => {
   const [otherUser, setOtherUser] = useState({
@@ -132,7 +133,12 @@ export default ({ View, ...props }) => {
     for (const msg of incomingMessage.messages) {
       setTimeout(() => setTyping(true), (delay + msg.delay) * 1000);
       setTimeout(() => setTyping(false), (delay + msg.delay + msg.typingDuration) * 1000);
-      setTimeout(() => appendMessage(msg), (delay + msg.delay + msg.typingDuration) * 1000);
+      setTimeout(() => {
+        if (msg.data.text) {
+          playSound(SOUNDS.RECEIVE_MESSAGE)
+        }
+        appendMessage(msg)
+      }, (delay + msg.delay + msg.typingDuration) * 1000);
       delay += msg.delay + msg.typingDuration;
     }
 
