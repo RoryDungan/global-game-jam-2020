@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/global-game-jam-2020/precache-manifest.ba5b24bf4e30aa59b0bbab9ee96221bb.js"
+  "/global-game-jam-2020/precache-manifest.8fdfade9ccde8059695465a219459002.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5ea08ff1602053bedb4ac6b9f4d1cfe7",
+    "revision": "1c33fe243df0d4ca9514521dfed325ba",
     "url": "/global-game-jam-2020/index.html"
   },
   {
-    "revision": "1f28136eb9326315fae6",
+    "revision": "a1056af96ca2ed86faaa",
     "url": "/global-game-jam-2020/static/css/2.764ccc25.chunk.css"
   },
   {
-    "revision": "b2044ef6e0973e66e1dc",
+    "revision": "acfadb0cf5e180bc3d76",
     "url": "/global-game-jam-2020/static/css/main.e1c5eac0.chunk.css"
   },
   {
-    "revision": "1f28136eb9326315fae6",
-    "url": "/global-game-jam-2020/static/js/2.8b10784e.chunk.js"
+    "revision": "a1056af96ca2ed86faaa",
+    "url": "/global-game-jam-2020/static/js/2.e730b3e3.chunk.js"
   },
   {
     "revision": "0db3c3c9fc917cd7e5377649ab44c454",
-    "url": "/global-game-jam-2020/static/js/2.8b10784e.chunk.js.LICENSE.txt"
+    "url": "/global-game-jam-2020/static/js/2.e730b3e3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b2044ef6e0973e66e1dc",
-    "url": "/global-game-jam-2020/static/js/main.eca1c268.chunk.js"
+    "revision": "acfadb0cf5e180bc3d76",
+    "url": "/global-game-jam-2020/static/js/main.50296b9c.chunk.js"
   },
   {
     "revision": "e745d900185c00fd768e",
     "url": "/global-game-jam-2020/static/js/runtime-main.6427e579.js"
+  },
+  {
+    "revision": "7960ca90e3047dd27eee5d3b87702e15",
+    "url": "/global-game-jam-2020/static/media/GGJ_longer_instrumental.7960ca90.m4a"
   },
   {
     "revision": "5a71d76f28fcae0e7a5c61c2ef6a18e6",
@@ -54,13 +58,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dbada8f44b2381c6a06897e9e0bd8ef6",
     "url": "/global-game-jam-2020/static/media/sendMessage.dbada8f4.m4a"
-  },
-  {
-    "revision": "1461d7d53538d77457a9cf8cc1e41761",
-    "url": "/global-game-jam-2020/static/media/themeSong.1461d7d5.m4a"
-  },
-  {
-    "revision": "5e49bb5f5a2b3d54cc8d5d882da38283",
-    "url": "/global-game-jam-2020/static/media/themeSong2.5e49bb5f.m4a"
   }
 ]);
