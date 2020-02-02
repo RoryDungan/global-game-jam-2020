@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1c33fe243df0d4ca9514521dfed325ba",
+    "revision": "617a3abb0184214ff4951c544b740c88",
     "url": "/global-game-jam-2020/index.html"
   },
   {
-    "revision": "a1056af96ca2ed86faaa",
+    "revision": "97738b2d8a2863fa3fb6",
     "url": "/global-game-jam-2020/static/css/2.764ccc25.chunk.css"
   },
   {
-    "revision": "acfadb0cf5e180bc3d76",
-    "url": "/global-game-jam-2020/static/css/main.e1c5eac0.chunk.css"
+    "revision": "053a643aab88f101eb8f",
+    "url": "/global-game-jam-2020/static/css/main.0b7f90fb.chunk.css"
   },
   {
-    "revision": "a1056af96ca2ed86faaa",
-    "url": "/global-game-jam-2020/static/js/2.e730b3e3.chunk.js"
+    "revision": "97738b2d8a2863fa3fb6",
+    "url": "/global-game-jam-2020/static/js/2.c817bb60.chunk.js"
   },
   {
     "revision": "0db3c3c9fc917cd7e5377649ab44c454",
-    "url": "/global-game-jam-2020/static/js/2.e730b3e3.chunk.js.LICENSE.txt"
+    "url": "/global-game-jam-2020/static/js/2.c817bb60.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "acfadb0cf5e180bc3d76",
-    "url": "/global-game-jam-2020/static/js/main.50296b9c.chunk.js"
+    "revision": "053a643aab88f101eb8f",
+    "url": "/global-game-jam-2020/static/js/main.c0181ba2.chunk.js"
   },
   {
     "revision": "e745d900185c00fd768e",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/global-game-jam-2020/static/media/GGJ_longer_instrumental.7960ca90.m4a"
   },
   {
-    "revision": "5a71d76f28fcae0e7a5c61c2ef6a18e6",
-    "url": "/global-game-jam-2020/static/media/avatar.5a71d76f.png"
+    "revision": "52903643fb2c442aa22726eaabfdaf4e",
+    "url": "/global-game-jam-2020/static/media/avatar.52903643.png"
   },
   {
     "revision": "846763c2f96a29d2a9a18c0bea7bc1c0",
