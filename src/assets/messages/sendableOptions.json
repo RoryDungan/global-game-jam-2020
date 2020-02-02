@@ -72,9 +72,9 @@
       "sender": "self",
       "type": "text",
       "delay": 0.5,
-      "typingDuration": 0.56,
+      "typingDuration": 0.6300000000000001,
       "data": {
-        "text": "Work, food, sleep. Typical boring adult stuff. You?"
+        "text": "Work, food, sleep. Typical boring adult stuff. 😴 You?"
       }
     },
     "score": 1,
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "destination": "E4"
+        "destination": "4e"
       },
       {
         "destination": "4b"
@@ -308,7 +308,7 @@
             }
           }
         ],
-        "destination": "E4"
+        "destination": "4e"
       },
       {
         "destination": "8ba"
@@ -485,6 +485,17 @@
     },
     "score": -3,
     "paths": [
+      {
+        "requirements": [
+          {
+            "score": {
+              "min": 9999,
+              "max": 9999
+            }
+          }
+        ],
+        "destination": "E4"
+      },
       {
         "destination": "13a"
       }

@@ -396,7 +396,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0,
-        "typingDuration": 0.56,
+        "typingDuration": 1,
         "data": {
           "text": "Shit, didn't mean to send that. I meant"
         }
@@ -440,9 +440,9 @@
         "sender": "friend",
         "type": "text",
         "delay": 0.5,
-        "typingDuration": 1.12,
+        "typingDuration": 1.1900000000000002,
         "data": {
-          "text": "Thought of getting in touch with you but you're not really into.. \"cool\" music are you?"
+          "text": "Thought of getting in touch with you but you're not really into.. 😎 \"cool\" music are you?"
         }
       }
     ]
@@ -898,7 +898,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 1,
-        "typingDuration": 0.49000000000000005,
+        "typingDuration": 1,
         "data": {
           "text": "some things were just simpler at school."
         }
@@ -934,7 +934,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 0,
-        "typingDuration": 0.56,
+        "typingDuration": 1,
         "data": {
           "text": "do people hunt turkeys anywhere outside the US?"
         }
@@ -1404,8 +1404,8 @@
   },
   "13b1": {
     "responseOptions": [
-      "1",
-      "2"
+      "15a",
+      "15b"
     ],
     "messages": [
       {
@@ -1415,6 +1415,15 @@
         "typingDuration": 0.7000000000000001,
         "data": {
           "text": "soz hang on a moment, gotta let my dog out"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 5,
+        "typingDuration": 0.07,
+        "data": {
+          "text": ""
         }
       }
     ]
@@ -1621,7 +1630,7 @@
         "sender": "friend",
         "type": "text",
         "delay": 4,
-        "typingDuration": 4,
+        "typingDuration": 10,
         "data": {
           "text": "... sorry, my dog's been asking for a walk for the last ten minutes. I should probably take him before he pisses in a corner."
         }
@@ -1633,6 +1642,68 @@
         "typingDuration": 0.77,
         "data": {
           "text": "It was nice catching up with you, though. See you later?"
+        }
+      }
+    ]
+  },
+  "4e": {
+    "responseOptions": [
+      "E1",
+      "E2"
+    ],
+    "messages": [
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 2,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 1,
+        "typingDuration": 0.07,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.2,
+        "typingDuration": 0.2,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 1,
+        "typingDuration": 0.07,
+        "data": {
+          "text": ""
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.7000000000000001,
+        "data": {
+          "text": "Alright, well I should head off. Stay cool, haha. 👉😎👉"
+        }
+      },
+      {
+        "sender": "friend",
+        "type": "text",
+        "delay": 0.5,
+        "typingDuration": 0.77,
+        "data": {
+          "text": "I mean. Keep in touch and all. Talk to you later?"
         }
       }
     ]
