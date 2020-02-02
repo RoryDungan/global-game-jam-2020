@@ -4,6 +4,7 @@ html {
   box-sizing: border-box;
   font-family: 'Nunito Sans', sans-serif;
   background-color: rgb(85, 84, 99);
+  background-image: url('assets/images/TilingBg-128.png');
 }
 *, *:before, *:after {
   -webkit-box-sizing: inherit;
