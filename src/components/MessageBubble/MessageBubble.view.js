@@ -19,7 +19,7 @@ export default ({ text, alignRight }) => (
   <Container alignRight={alignRight}>
     <Bubble alignRight={alignRight}>
       {/* {text} */}
-      {text.split('\n').map(m => <Paragraph>{m}</Paragraph>)}
+      {text.split('\n').map((m, i) => <Paragraph key={i}>{m}</Paragraph>)}
     </Bubble>
   </Container>
 );
