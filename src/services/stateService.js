@@ -1,4 +1,5 @@
 import { createGlobalState } from 'react-hooks-global-state';
+import { messageHistory } from '../assets/messages';
 
 const { useGlobalState } = createGlobalState({
   currentState: {
@@ -7,13 +8,7 @@ const { useGlobalState } = createGlobalState({
       messageId: '1'
     }
   },
-  chatlog: [{
-    "sender": "chat",
-    "type": "text",
-    "data": {
-      "text": "Today"
-    }
-  }]
+  chatlog: messageHistory
 });
 
 export {

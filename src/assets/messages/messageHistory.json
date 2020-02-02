@@ -1,0 +1,814 @@
+[
+  {
+    "sender": "chat",
+    "type": "text",
+    "data": {
+      "text": "7 March 2015"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "testinggg!"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "new phone who dis?"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "It's your mother you ungrateful brat, and you had better not be communicating in public with such despicable grammar and meme-ery."
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "ok, lil confession... it's not your mother. tis i, your friend and associate, les the magnificent"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "this is the part where you reply so i know it is u and that im not texting pizza hut"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "why does this always happen when someone gives me their number"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "cmon dude don't leave me hanging"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "It's me."
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "eloquent as ever."
+    }
+  },
+  {
+    "sender": "chat",
+    "type": "text",
+    "data": {
+      "text": "9 May 2015"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "Skipping today?"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "nah just late, uncle took a turn for the worse. keep your filthy feet off my chair."
+    }
+  },
+  {
+    "sender": "chat",
+    "type": "text",
+    "data": {
+      "text": "21 March 2015"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "wtf is she going on about"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "Might know if you paid attention."
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "she just used 'juxtaposition' twice in the one sentence, mate, does SHE even know what she's talking about"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "I meant her face. She's been crying. Bad day."
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "oh shit."
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "well that just sucks for everyone, we kinda need this for the exam"
+    }
+  },
+  {
+    "sender": "chat",
+    "type": "text",
+    "data": {
+      "text": "15 April 2015"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "Seen the news?"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "shut up"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "Touchy."
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "they'll win next season"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "Mm."
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "third time's the charm"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "that and i will personally fly down and kidnap the coach's family if they're this pathetic next year"
+    }
+  },
+  {
+    "sender": "chat",
+    "type": "text",
+    "data": {
+      "text": "17 April 2015"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "Hello."
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "Just reminding you I'm here, in case you forgot."
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "ok sorry i ignored you but i don't get quality time with jackie"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "I thought it was quality three-of-us time"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "it was, but no offense mate i don't really want to make out with you"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "That's fine."
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "Your technique looked kind of shit anyway."
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "you wot m8"
+    }
+  },
+  {
+    "sender": "chat",
+    "type": "text",
+    "data": {
+      "text": "19 April 2015"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "Check fb, found you"
+    }
+  },
+  {
+    "sender": "chat",
+    "type": "text",
+    "data": {
+      "text": "20 April 2015"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "Check fb, found you again."
+    }
+  },
+  {
+    "sender": "chat",
+    "type": "text",
+    "data": {
+      "text": "21 April 2015"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "Check fb, found you again."
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "stop sending me pics of the katy perry shark or i'll pee in your drinking bottle. somehow."
+    }
+  },
+  {
+    "sender": "chat",
+    "type": "text",
+    "data": {
+      "text": "14 June 2015"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "Where are you?"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "sorry, can't come. uncle finally passed. probably won't be at school tomorrow. can you make up something for the others?"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "I'm sorry. Will do."
+    }
+  },
+  {
+    "sender": "chat",
+    "type": "text",
+    "data": {
+      "text": "15 June 2015"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "It's a good thing the funeral's in the afternoon."
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "what do u mean"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "You were never a mourning person."
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "are you fucking serious"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "sorry"
+    }
+  },
+  {
+    "sender": "chat",
+    "type": "text",
+    "data": {
+      "text": "22 June 2015"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "ok it's a little funny."
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": ":)"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "but fuck you"
+    }
+  },
+  {
+    "sender": "chat",
+    "type": "text",
+    "data": {
+      "text": "3 July 2015"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "Reminder you're crashing at mine tonight"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "im not going to forget!!! ... not again. forget -one- time and people never get off ur ass"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "My mum still thinks you secretly hate me"
+    }
+  },
+  {
+    "sender": "chat",
+    "type": "text",
+    "data": {
+      "text": "4 July 2015"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "You doing okay?"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "not really, no"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "jackie ambushed me outside the school gate. started a huge, loud n very public fight. expressed disatisfaction pretty much all my life choices."
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "was probably waiting for me to drop my guard and aaargh"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "who fucking brings up dead family in a breakup???"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "when does shit stop sucking so hard"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "It'll be better one day"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "yeah nah, not before the hsc is over."
+    }
+  },
+  {
+    "sender": "chat",
+    "type": "text",
+    "data": {
+      "text": "12 July 2015"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "Mum won't let me come over for the next few months."
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "wtf? why?"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "HSC."
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "ah crappity. how am i supposed to counter that"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "😥"
+    }
+  },
+  {
+    "sender": "chat",
+    "type": "text",
+    "data": {
+      "text": "21 July 2015"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "emergency help pls i can't read any of my math notes aaaa. i don't remember writing these???"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "Can't, still in lockdown."
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "my parents aren't home 😏"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "also pls pls pls i'll check your essays for you"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "On my way"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "🎉 I'll check your essays for you"
+    }
+  },
+  {
+    "sender": "chat",
+    "type": "text",
+    "data": {
+      "text": "17 November 2015"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "happy graduation!! we're freeeee"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "🎊🎉🎊🎉"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "Expected you to have to repeat the year"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "say that to my english mark, asswipe"
+    }
+  },
+  {
+    "sender": "chat",
+    "type": "text",
+    "data": {
+      "text": "16 February 2016"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "so how's uni going, nerd?"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "good"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "thanks for the thesis, i really appreciate how much effort you put over text into never overwhelming me with distracting things like \"enough detail\" and \"personality\""
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "that's fine, I can be the chatty one since since you're not here in person"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "seriously I never thought i'd miss your endless talking, but it's like background noise. Can't help but notice when it isn't there."
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "what are your classes like? any nerd friends replace us?"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "you know they'll never be cooler than us right"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "Classes are fine. Bit boring."
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "And I know."
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "damn straight."
+    }
+  },
+  {
+    "sender": "chat",
+    "type": "text",
+    "data": {
+      "text": "24 June 2016"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "Hey, what's been up?"
+    }
+  },
+  {
+    "sender": "chat",
+    "type": "text",
+    "data": {
+      "text": "12 April 2016"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "Sorry, been busy. Nothing much. You?"
+    }
+  },
+  {
+    "sender": "chat",
+    "type": "text",
+    "data": {
+      "text": "20 April 2016"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "Sorry! Me too haha, don't really check the phone much. We should get coffee some time."
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "Definitely."
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "Tomorrow work with you?"
+    }
+  },
+  {
+    "sender": "chat",
+    "type": "text",
+    "data": {
+      "text": "21 April 2016"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "Heeeello?"
+    }
+  },
+  {
+    "sender": "self",
+    "type": "text",
+    "data": {
+      "text": "Hey. Sorry, got a deadline."
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "Thats cool, you're probably busier than me these days. How about Friday?"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "How about tomorrow?"
+    }
+  },
+  {
+    "sender": "chat",
+    "type": "text",
+    "data": {
+      "text": "22 April 2016"
+    }
+  },
+  {
+    "sender": "friend",
+    "type": "text",
+    "data": {
+      "text": "Guess not ha. Next week?"
+    }
+  },
+  {
+    "sender": "chat",
+    "type": "text",
+    "data": {
+      "text": "Today"
+    }
+  }
+]
